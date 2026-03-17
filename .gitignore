@@ -1,7 +1,14 @@
-".obsidian/workspace*" 
+# Syncthing internal folders
+.stfolder/
+.stversions/
+
+# Obsidian internal workspace (frequently changing)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/workspace*
+
+# Sync conflict and temporary files
 .obsidian/*.sync-conflict-*
 .obsidian/~syncthing*
 .obsidian/*.tmp
+*.sync-conflict-*
