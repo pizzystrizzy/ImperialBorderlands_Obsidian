@@ -1,0 +1,6 @@
+The great fortress of **Türos Orn** ("Storm-Castle") was built a millennium ago, during the Empyrean War, on the shores of Lake Laman by the great warrior-king Valerian Bellësareus. It has been sacked and rebuilt dozens of times over the centuries, and local legend has it that there are hidden chambers in Türos Orn that no one has seen in a thousand years. Türos Orn nowadays guards the strategic crossroads by Lake Laman and serves as the seat for one of the Borderlands’ four palatines. 
+
+Türos Orn serves as a supply depot for the adjoining forts, and a small but thriving market town has grown up around the sprawling fortress. The charismatic Palatine Valanna Telpirion, a former adventurer who earned her position by the prowess of her blade, considers herself the steward of a glorious tradition and holds frequent parades and memorials to mark Auran victories. She would look unkindly on adventurers plundering the hidden treasures of her fortress (if there actually are any), but might permit exploration if adventurers help deal with her bandit problem (see the [[Collapsed Elven Keep]]).
+
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

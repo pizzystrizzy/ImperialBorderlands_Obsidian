@@ -1,0 +1,5 @@
+Part of the line of forts built by Tarkaun Audarius XI Ulkyreus, **Türos Veren ("Sharp-Castle")** serves as a redoubt between [[Türos Aurë]] and [[Türos Gundan]]. The [[Krysivor River|Krysivor]] is not fordable here, so Türos Veren rarely encounters beastman marauders. The settlement around the fort has developed into a small lumber camp that cuts woods just across the river and ships them by raft to [[Türos Aurë]]. At the orders of his palatine, a reluctant Legate Vandelus Pylon has instructed his legionaries to guard the lumberjacks on the far side of the river – but he considers it a foolish provocation that will end badly. Türos Veren serves as a good base for adventurers who wish to explore the [[Istrith Forest|Istrith]] because of the daily ferries to and fro across the Krysivor.
+
+#Realm: [[Menicos]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

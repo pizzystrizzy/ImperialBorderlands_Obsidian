@@ -1,0 +1,5 @@
+Another of Ulkyreus’s fortifications on the Krysivor, **Türos Augil ("Switft-Castle")** is situated on a low ridge that overlooks the river and road. Like the other forts, many of its troops have been sent west. Despite its thin garrison, the fort is a relatively safe settlement, as the wild [[Naungollë Forest]] is more than 10 miles distant and the [[Krysivor River|Krysivor]] is not fordable here. In recent weeks, however, supplies from [[Türos Zera]] have been hit by bandits (actually wererats from the [[Collapsed Elven Keep]]) while the watchtowers on the road to [[Türos Gundan]] have been probed by orcs (from the [[Lair of the Warlock]]). Legate Peristo Pelagios is a young political appointee who replaced a very experienced commander (now fighting the Skysos) and is uncertain how to deal with the situation. For now he has decided to double the garrison at his watchtowers, even though this has left his fort nearly empty.
+
+#Realm: [[Menicos]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

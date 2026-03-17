@@ -1,0 +1,5 @@
+Another fort in the Unbroken Line erected by Ulkyreus 150 years ago, **Türos Aster ("Wise-Castle")** sits on the northwest bank of the [[Krysivor River|Krysivor]], atop a low hill overlooking a broad and shallow ford. A [[Ruined Imperial Fortress]] located across the ford is visible from the watchtowers of Türos Aster. The ruined fort often served as a temporary camp for legionary expeditions across the river, but it has recently been occupied by a bugbear tribe who have begun harassing local settlements. Legate Nicus Balens would very much like the bugbear invaders to be repelled, but with most of his forces sent west he has no manpower to spare. Adventurers who clear the ruins will be offered an Imperial rank of patrician (baron) with a claim to the stronghold.
+
+#Realm: [[Türos Orn]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

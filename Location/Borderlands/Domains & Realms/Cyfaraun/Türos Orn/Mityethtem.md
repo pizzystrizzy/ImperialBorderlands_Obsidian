@@ -1,0 +1,5 @@
+Constructed during the Argollëan War, 215-year old **Mityethtem ("Fort of the Dutiful")** was unusual for being garrisoned exclusively by bladedancers of Ianna and priestesses of Mityara. When Audarius XI Ulkyreus built the Unbroken Line at the Borderlands, he repurposed Mityethtem as a third-line fort and replaced its clerical garrison with a cavalry reserve. However, the fort still has a large hospital staffed by disciples of the Noble Lady and by tradition its commander and officers are always bladedancers. The current commander, Legate Zeodarë Cellëppes, is a bright and earnest young woman who is proud of her post but disappointed to have missed the action against the Skysos. Cellëppes is a vassal of Palatine Valanna Telpirion of [[Türos Orn]]. Characters can recruit bladedancer and priestess henchmen at Mityethtem as if it were Market Class IV.
+
+#Realm: [[Türos Orn]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

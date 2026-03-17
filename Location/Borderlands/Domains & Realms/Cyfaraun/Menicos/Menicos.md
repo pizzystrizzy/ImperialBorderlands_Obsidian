@@ -1,0 +1,4 @@
+**Menicos ("Little Rock Place")** is a small town built on lumberjacking. The dawn redwood of the [[Istrith Forest]] is highly valued for its massive size and strong timber. Redwood cut from the northwestern rump of the Istrith Forest is transported here for shipment to Arganos in the northeast. When it was founded, Menicos was actually in the forest, but years of clear-cutting have pushed the forest’s borders back between 15 and 20 miles in all directions. Palatine Attenus Korbus (an Auranization of his given Krysean name, Attenes Korbis, designed to conceal his low-born status) would dearly love to exploit the timber in the huge forest south of the [[Krysivor River|Krysivor]]. He has ordered his subordinate, Legate Vandelus Pylon of [[Türos Veren]], to protect lumberjacks working on the far side of the Krysivor.
+
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

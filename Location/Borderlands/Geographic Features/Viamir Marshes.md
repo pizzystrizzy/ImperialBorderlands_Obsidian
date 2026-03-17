@@ -1,0 +1,1 @@
+A freshwater marsh of poplar trees and white willows, swamp lilies, narrow-leaved cattails, and giant reed thickets. The **Viamir Marshes ("Lily-Dark")**, which takes its name from the rare black lilies that grow on its dark waters, run from the eastern bank of the [[Mirmen River]] to the southern banks of [[Lake Laman]].

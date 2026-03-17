@@ -1,0 +1,5 @@
+**Türos Tellë ("West-Castle")** is the westernmost fort in the line constructed by Tarkaun Audarius XI Ulkyreus. Situated on an island in the [[Mirmen River]], it watches the pass down from the Meniri Mountains as well as the junction of the north- and east-bound military roads. Since the fall of [[Azen Kairn]], the southern reaches of the [[Meniri Mountains]] have been beastman territory, and goblins, orcs, ogres, and giants are a constant threat. Fortunately, the fort’s commander, Legate Aurius Mennictor, is a cunning tactician and seasoned campaigner beloved by his troops. He would have been sent to fight the Skysos, but a mace-blow from an ogre three years ago damaged his heart and lungs, and he was deemed no longer capable of extended campaigning. Mennictor’s greatest fear is an attack by the great dragon Orm, an assault against which he knows his forces could not prevail. He is thus circumspect in aiding adventurers who might provoke Orm.
+
+#Realm: [[Siadanos]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

@@ -1,0 +1,5 @@
+Situated on a high hill at the foot of the [[Meniri Mountains]], **Türos Erín ("Castle of Glory")** is the only one of Audarius XI Ulkyreus’s border forts that was not built on a river. The fort’s name enjoys ironic appreciation from the Auran legions, who deem Türos Erín the worst posting in the Borderlands. Whether they are confronting undead from the [[Lusaun Forest]], beastmen from the hills, or just the icy wind that comes down the mountains, the troops here maintain a proud misery about their circumstance. They are especially “proud” of their commander, Legate Lammirio Nuvicerres, a second-rate officer who took the assignment to avoid going to the war. Nuvicerres replaced a beloved and experienced officer, proving once and for all that things will always get worse at Türos Erín.
+
+#Realm: [[Siadanos]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

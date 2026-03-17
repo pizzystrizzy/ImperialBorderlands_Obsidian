@@ -1,0 +1,1 @@
+A dark forest with wet, mossy soil, the **Naungollë Forest ("North-Eastern")** is densely vegetated with valonian oaks with low-hanging branches amidst copses of alder, birch, and elm. To the south and west the forest becomes marshy, with giant reeds, willows, and poplars dominating.

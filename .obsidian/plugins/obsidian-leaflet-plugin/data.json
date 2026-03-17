@@ -1,0 +1,1416 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "locked": true,
+      "lastAccessed": 1757455222849,
+      "markers": [
+        {
+          "id": "ID_e98a994b3ba8",
+          "type": "default",
+          "loc": [
+            825.3333740234375,
+            1241.3329678247064
+          ],
+          "link": "Türos Tem",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41936924588672514,
+            -0.37515153364701703
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79dbb9aa6bcb",
+          "type": "default",
+          "loc": [
+            173.6978956612487,
+            1086.7186937887484
+          ],
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 914.5,
+              "lng": 1184.8214689567428,
+              "id": "ID_7b78b98ae938",
+              "targets": {
+                "vertexIds": [
+                  "ID_580b7b7bf9d9",
+                  "ID_5a7bd9385899"
+                ]
+              }
+            },
+            {
+              "lat": 825.3333740234375,
+              "lng": 1241.3329678247064,
+              "id": "ID_4bdb086a9b59",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_e98a994b3ba8"
+              }
+            },
+            {
+              "lat": 851.9999847412109,
+              "lng": 1174.8423586976705,
+              "id": "ID_ea59f88b6b1a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 914.5,
+              "lng": 1184.8214689567428,
+              "id": "ID_580b7b7bf9d9",
+              "targets": {
+                "vertexIds": [
+                  "ID_7b78b98ae938",
+                  "ID_5a7bd9385899"
+                ]
+              }
+            },
+            {
+              "lat": 914.5,
+              "lng": 1184.8214689567428,
+              "id": "ID_5a7bd9385899",
+              "targets": {
+                "vertexIds": [
+                  "ID_7b78b98ae938",
+                  "ID_580b7b7bf9d9"
+                ]
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "Borderlands.md"
+      ]
+    },
+    {
+      "id": "Borderlands_Color",
+      "locked": true,
+      "lastAccessed": 1771904061607,
+      "markers": [
+        {
+          "id": "ID_db8bdbf9cb08",
+          "type": "default",
+          "loc": [
+            828.8690669954949,
+            1236.7178988518017
+          ],
+          "link": "Türos Tem",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa1828683b59",
+          "type": "default",
+          "loc": [
+            1551.0000400543213,
+            1302.4405114365363
+          ],
+          "link": "Türos Orn",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09eb993b9bfa",
+          "type": "Dungeon",
+          "loc": [
+            1475.8497070630533,
+            1542.568048232333
+          ],
+          "link": "Collapsed Elven Keep",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79b979380b19",
+          "type": "default",
+          "loc": [
+            1850.3333435058594,
+            995.714095557563
+          ],
+          "link": "Cyfaraun",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9284bab1a6b",
+          "type": "default",
+          "loc": [
+            1248.3333435058594,
+            1687.6608281899607
+          ],
+          "link": "Türos Morn",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a0808ebe8b9",
+          "type": "default",
+          "loc": [
+            779.0625,
+            584
+          ],
+          "link": "Siadanos",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89bbeada687a",
+          "type": "Dungeon",
+          "loc": [
+            647.53125,
+            705
+          ],
+          "link": "The Fetid Crypt of Anatu the Defiler",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bcbbae85afb",
+          "type": "Dungeon",
+          "loc": [
+            929.5989589691162,
+            1058.5
+          ],
+          "link": "Buried Temple",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9394b89e838",
+          "type": "Dungeon",
+          "loc": [
+            731.4283099793754,
+            466.6904755831214
+          ],
+          "link": "Dragon's Tor",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bda689a985b",
+          "type": "default",
+          "loc": [
+            617.3484141496803,
+            1103.0865786510142
+          ],
+          "link": "Türos Luin",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9181b6af94b",
+          "type": "default",
+          "loc": [
+            481.3924022770262,
+            1001.2632021601514
+          ],
+          "link": "Türos Drav",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_380b19d8fa69",
+          "type": "default",
+          "loc": [
+            377.68340950126475,
+            820.2438661763952
+          ],
+          "link": "Türos Erín",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eadbb9f818b8",
+          "type": "default",
+          "loc": [
+            383.3402637507571,
+            616.5971131946695
+          ],
+          "link": "Türos Tellë",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbb92ad8084a",
+          "type": "default",
+          "loc": [
+            928.3957920074463,
+            1427.3333740234375
+          ],
+          "link": "Türos Aster",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a7b0829788a",
+          "type": "Dungeon",
+          "loc": [
+            885.53125,
+            1491
+          ],
+          "link": "Ruined Imperial Fortress",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68690948397b",
+          "type": "default",
+          "loc": [
+            1110.9089474178904,
+            1599.4755390439707
+          ],
+          "link": "Türos Spen",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b1909e939d9",
+          "type": "Dungeon",
+          "loc": [
+            1063.0625,
+            1781.3333740234375
+          ],
+          "link": "Ruined Monastery",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_584a0adb4a19",
+          "type": "default",
+          "loc": [
+            1330.8633505407308,
+            837.2144289248723
+          ],
+          "link": "Türos Quell",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99ab4838a8a8",
+          "type": "default",
+          "loc": [
+            -755.9031595883798,
+            3662.66650390625
+          ],
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b1819493b6a",
+          "type": "default",
+          "loc": [
+            1116.498771315519,
+            1301.5590972339064
+          ],
+          "link": "Shrine of the White Lady",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabaeb48aa29",
+          "type": "default",
+          "loc": [
+            492.88405595750123,
+            1482.111433177895
+          ],
+          "link": "Watchtower at Eammon Mór",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49286af9796b",
+          "type": "Terrain Feature",
+          "loc": [
+            462.22647086921125,
+            1903.452164333196
+          ],
+          "link": "The Dark Wall",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_291848fbeb2b",
+          "type": "default",
+          "loc": [
+            1412.0985768093808,
+            1778.9981236844105
+          ],
+          "link": "Türos Zera",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29591b79699a",
+          "type": "default",
+          "loc": [
+            1596.7435606071049,
+            1948.0144292151708
+          ],
+          "link": "Türos Augil",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da08787a49c8",
+          "type": "Dungeon",
+          "loc": [
+            1711.0192377336118,
+            2324.199803267604
+          ],
+          "link": "Lair of the Warlock",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58e9bb796bdb",
+          "type": "default",
+          "loc": [
+            1724.2687073971674,
+            2070.5439166353735
+          ],
+          "link": "Türos Gundan",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b38c98bdbdb",
+          "type": "default",
+          "loc": [
+            1821.6536634486754,
+            1657.9702684941794
+          ],
+          "link": "Luseatum",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b386bb82a4a",
+          "type": "default",
+          "loc": [
+            2095.673831431086,
+            1904.001811866316
+          ],
+          "link": "Menicos",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79eb693b092b",
+          "type": "default",
+          "loc": [
+            1951.5974053924767,
+            2248.0274971836275
+          ],
+          "link": "Türos Veren",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0bc8e91a0a99",
+          "type": "default",
+          "loc": [
+            2163.709921504874,
+            2493.972070972587
+          ],
+          "link": "Türos Aurë",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ab98bda9bca",
+          "type": "Dungeon",
+          "loc": [
+            1962.3056595421656,
+            2601.730485293988
+          ],
+          "link": "Lair of the Manticore",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b4a599b8a58",
+          "type": "Dungeon",
+          "loc": [
+            1475.4922529416388,
+            2746.911077713855
+          ],
+          "link": "Ruined City of Cyfandir",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9280104992276537,
+            -0.670678296791654
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aabb7a3b4a98",
+          "type": "default",
+          "loc": [
+            2057.673831431086,
+            1356.042818250094
+          ],
+          "link": "Mityethtem",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_682b19aa6be9",
+          "type": "default",
+          "loc": [
+            2128.3544298815136,
+            766.0545343597446
+          ],
+          "link": "Kruantem",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99cb58b80849",
+          "type": "default",
+          "loc": [
+            2054.311630575556,
+            404.0540837401427
+          ],
+          "link": "Sarotem",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_596928f93919",
+          "type": "default",
+          "loc": [
+            1654.1103581637576,
+            539.9991081487044
+          ],
+          "link": "Samos",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab691b28e81b",
+          "type": "default",
+          "loc": [
+            1682.1265524957412,
+            96.099145700338
+          ],
+          "link": "Andrastem",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daa8e9dac919",
+          "type": "default",
+          "loc": [
+            1201.8489353760187,
+            344.0432688696958
+          ],
+          "link": "Zelictum",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7aa829296b4b",
+          "type": "Dungeon",
+          "loc": [
+            1123.1366889207884,
+            2246.2812664288394
+          ],
+          "link": "Burial Mound of the Empyreans",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8f8cb195bbb",
+          "type": "default",
+          "loc": [
+            909.922966607945,
+            128.0766147202403
+          ],
+          "link": "Azen Radokh",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a697838797a",
+          "type": "default",
+          "loc": [
+            475.6719544621958,
+            164.06850356740517
+          ],
+          "link": "Azen Kairn",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bf9d9f8297a",
+          "type": "default",
+          "loc": [
+            207.51695157035078,
+            408.0202872699963
+          ],
+          "link": "Redoubt on the Earthway",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8ba18d8193a",
+          "type": "Dungeon",
+          "loc": [
+            229.5296756883381,
+            1182.0576886969584
+          ],
+          "link": "Sepulcher of the Sorceress-Queen",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a79c819b93a",
+          "type": "Dungeon",
+          "loc": [
+            356.3359516480237,
+            1716.820624491215
+          ],
+          "link": "Eyrie of the Dread Eye",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5800069677335186,
+            -0.16197088711273805
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0af989495a48",
+          "type": "default",
+          "loc": [
+            193.7981161126326,
+            1842.8750073249373
+          ],
+          "link": "Nabu-Kudur",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6225929078800464,
+            -0.08809005277846937
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8190a4a19ca",
+          "type": "default",
+          "loc": [
+            338.1211837082934,
+            2070.4106589798107
+          ],
+          "link": "Arwia Oasis",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6994630604661523,
+            -0.15369144714013336
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbbae9b8bb78",
+          "type": "default",
+          "loc": [
+            266.33699892568154,
+            2314.5930667245752
+          ],
+          "link": "Ruins of Zahar",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7819571171366808,
+            -0.12106227223894615
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea29fb4a1848",
+          "type": "default",
+          "loc": [
+            655.2214815421556,
+            2371.675544124743
+          ],
+          "link": "The Fist of Telith",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8012417378799807,
+            -0.29782794615552527
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ad91af94b4a",
+          "type": "Dungeon",
+          "loc": [
+            754.3229673179472,
+            2198.054520614566
+          ],
+          "link": "Temple of the Stone Horns",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7425859866941102,
+            -0.34287407605361236
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_188b98db3a38",
+          "type": "default",
+          "loc": [
+            579.8958844600678,
+            2018.4810309689344
+          ],
+          "link": "Nurgarog",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6819192672192346,
+            -0.2635890383909399
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b2aa8ead939",
+          "type": "Dungeon",
+          "loc": [
+            343.3377266977513,
+            2674.0301464830427
+          ],
+          "link": "Valley of the Sorcerer Kings",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca98e8c8f839",
+          "type": "default",
+          "loc": [
+            474.5934378305864,
+            2559.6940008682764
+          ],
+          "link": "Morgot",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebcb79098be8",
+          "type": "default",
+          "loc": [
+            857.1421001441802,
+            2498.602560529754
+          ],
+          "link": "Fortress of Gorgbad",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b6a9979cb8b",
+          "type": "Dungeon",
+          "loc": [
+            1516.8040968110067,
+            1108.7607867067218
+          ],
+          "link": "Ruined Wizard's Tower",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad9589b9b89",
+          "type": "Terrain Feature",
+          "loc": [
+            1482.1172985917506,
+            1910.5800882463386
+          ],
+          "link": "Krysivor River",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dabb5b584a4a",
+          "type": "Terrain Feature",
+          "loc": [
+            847.9976865240023,
+            1767.3348760796093
+          ],
+          "link": "Blood River",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5970725932701383,
+            -0.3854534938745465
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78fb29badb29",
+          "type": "Terrain Feature",
+          "loc": [
+            2146.6666564941406,
+            1224.0365741492183
+          ],
+          "link": "Mirmen River",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41352586964500615,
+            -0.9757575711337003
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8784b98bbf8",
+          "type": "Terrain Feature",
+          "loc": [
+            1381.1087847875679,
+            1120.0180294780323
+          ],
+          "link": "Lake Laman",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d87bd9486859",
+          "type": "Terrain Feature",
+          "loc": [
+            1108.6666259765625,
+            949.337003090678
+          ],
+          "link": "Viamir Marshes",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3207219605036074,
+            -0.503939375443892
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18f9281b9849",
+          "type": "Terrain Feature",
+          "loc": [
+            1258.0376454006391,
+            1307.9757475122042
+          ],
+          "link": "Viaspen Forest",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d99abb689b49",
+          "type": "Terrain Feature",
+          "loc": [
+            614.3322178326016,
+            816.7531062241833
+          ],
+          "link": "Lusaun Forest",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d82a0b1b7a5b",
+          "type": "Terrain Feature",
+          "loc": [
+            61.15563471074132,
+            644.5588415762311
+          ],
+          "link": "Meniri Mountains",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99fbb8690958",
+          "type": "default",
+          "loc": [
+            556.1532951730828,
+            2773.174200066612
+          ],
+          "link": "The Waste",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48aaba295b0a",
+          "type": "Terrain Feature",
+          "loc": [
+            193.63188074045854,
+            1361.9823746806474
+          ],
+          "link": "Madoan Hills",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59d8cac87bba",
+          "type": "Terrain Feature",
+          "loc": [
+            1694.1496719881038,
+            1641.9855895606458
+          ],
+          "link": "Naungollë Forest",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb0b3b785bfb",
+          "type": "Terrain Feature",
+          "loc": [
+            1664.0860513981675,
+            2643.9792808862185
+          ],
+          "link": "Istrith Forest",
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b1b2be8e9f9",
+          "type": "Dungeon",
+          "loc": [
+            704.2783540618013,
+            1200.6673144547576
+          ],
+          "layer": "%5B%5BMap_of_the_Borderlands.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.40563084947795863,
+            -0.32012652457354607
+          ],
+          "description": "Droskar's Crucible\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Dungeon",
+      "iconName": "bahai",
+      "color": "#f31212",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Dungeon"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Terrain Feature",
+      "iconName": "map-marker",
+      "color": "#1f6600",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": true,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[Map - Regional map of Lampoteuo.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Map - Regional map of Lampoteuo.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "MapCalcExample",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2048,
+        1642
+      ]
+    ],
+    "width": "95%",
+    "lat": 1024,
+    "long": 821,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

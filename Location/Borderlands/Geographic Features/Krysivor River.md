@@ -1,0 +1,1 @@
+A shallow, fast-running river, the **Krysivor ("Arrow River")** runs from the southern highlands northeast to empty into the Tehonaurë. The Krysivor ranges from 100 to 400 yards wide but usually no more than 25 feet deep. The banks are marshy with reed thickets and poplar trees.

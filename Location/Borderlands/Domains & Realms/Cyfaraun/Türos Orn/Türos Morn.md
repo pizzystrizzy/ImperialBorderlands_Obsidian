@@ -1,0 +1,5 @@
+Built by Tarkaun Audarius XI Ulkyreus 150 years ago to serve as a strongpoint between the forest and river, **Türos Morn ("Night-Castle")** is considered a place of ill omen in the Auran Army – and not just because of its name. The fort’s garrison was massacred in an expedition into the [[Naungollë Forest|Naungollë]] just weeks after it was constructed, and more than a few other misfortunes have followed, including a particularly deadly outbreak of the Grey Death (281 IY). Officers and legionaries all strive not to be posted there. The current commander, Legate Darbellus Opiternian, is a gloomy and morbid man who expects to die in the [[Borderlands]]. His disposition does little to raise the morale of his superstitious troops.
+
+#Realm: [[Türos Orn]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

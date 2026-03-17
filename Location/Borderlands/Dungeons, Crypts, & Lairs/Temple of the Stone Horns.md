@@ -1,0 +1,1 @@
+**Temple of the Stone Horns**. A pair of huge stone monoliths rise from the top of this cliff in [[The Dark Wall]] like the horns of a dragon. This was once a Thrassian temple to Iskara, Dragon Queen of Chaos, which stood guard over the burial vaults of tyrants. Now **lizardmen**, led by a powerful Thrassian shaman, have reclaimed the site for their vile sacrifices and rituals.

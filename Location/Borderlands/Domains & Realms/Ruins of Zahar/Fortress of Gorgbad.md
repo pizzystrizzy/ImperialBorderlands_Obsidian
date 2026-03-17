@@ -1,0 +1,3 @@
+**Fortress of Gorgbad**. Towering, gloomy, and impressive, this ancient Zaharan fortress stands on top of a bare rocky platform at the northern tip of [[The Dark Wall]]. It is home to a powerful dire orc tribe led by the war-chief **Gorgan**, a vassal of the Lord of Secrets who lurks in the [[Ruins of Zahar|Zahar]]. Gorgon guards the tombs of sorcerer-kings who slumber in the crypts below the fortress. Gorgan rules a clanhold that includes another **six tribes of ordinary beastmen** populating six adjoining hexes. He is served by two sub-vassals, each with a clanhold of seven beastman tribes. These clanholds are located deep in [[The Waste]].
+
+#Realm: [[Ruins of Zahar|Zahar]]

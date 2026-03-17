@@ -1,0 +1,5 @@
+**Türos Zera ("Bronze-Castle")** is part of the line of forts built 150 years ago by Tarkaun Audarius XI Ulkyreus to guard against beastman invaders from [[The Waste]]. The fort is situated on a hill overlooking the floodplain of the Krysivor. The river is not fordable here, so Türos Zera largely serves as a strongpoint to house troops that can be deployed to the watchtowers along the river. With many of those troops absent, bandits in the [[Naungollë Forest]] have recently been raiding caravans on the road between [[Türos Augil]] and Türos Zera. The commander of Türos Zera, Legate Bellos Ionnicato, attempted to organize a punitive expedition into the Naungollë, but the scouts did not return and since then his men have refused to patrol the woods. A company of adventurers willing to root out the bandits (actually the wererats at the [[Collapsed Elven Keep]]) would earn his favor.
+
+#Realm: [[Türos Orn]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

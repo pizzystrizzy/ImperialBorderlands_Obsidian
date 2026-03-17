@@ -1,0 +1,5 @@
+Built 150 years ago as part of Audarius XI Ulkyreus’s plan of forward defense, **Türos Spen ("Forest-Castle")** guards the road that runs between the [[Naungollë Forest|Naungollë]] and [[Viaspen Forest|Viaspen]] Forests. The fort is situated atop a rocky hill with steep talus slopes. From the hill, the watchmen can spy the so-called Bleeding Point, where the [[Blood River]] joins the Krysivor. Sediment accumulation has left the confluence fairly shallow, and the Bleeding Point becomes fordable during droughts. During such times, Legate Süromus Drakon doubles the watch and offers interminable speeches about Aedon Lann’s great battle. Hence the saying in the Borderlands legions, “if you’re sent to Spen, pray for rain.” Türos Spen is less than 60 miles from [[The Dark Wall]], and expeditions into the Waste often depart from here. More than one expedition has spotted a Zaharan ruin nestled among the rocky hills to the southeast ([[Ruined Monastery]]), but it remains unplumbed.
+
+#Realm: [[Türos Orn]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

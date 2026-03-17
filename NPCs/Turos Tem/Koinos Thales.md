@@ -1,0 +1,9 @@
+**Quartermaster Koinos Thales** has a round, slightly misshapen head with big, slightly lopsided eyes and droopy lips. The oafish face disguises a sharp mind and keen tongue. When off-duty, the 30-yearold Thales enjoys Kyrpeges (“the wargame”), an Auran game of strategy. His favorite opponent is the legate, but Thales can often be found playing for coins in the Traveler’s Inn against strangers who underestimate him.
+
+At dawn, Thales assembles at the cross-hall in the headquarters building (18b) to receive the orders of the day. Thereafter he works in his adjacent office (18d). Before sundown he joins the other soldiers socializing at the village bathhouse (24). From there he either visits the inn (23) or joins the legate and lady for dinner (19e) before returning to his quarters in the chapterhouse (20).
+
+With a Friendly reaction roll, Thales will share a rumor and offer to loan the adventurers equipment from the commissary (18f) or stables (10) if they pledge to return it or repay for losses. (He will record any such transactions on a papyrus scroll and file them away so they are not forgotten!) He will sell equipment at normal rates with an Indifferent or Neutral reaction roll; and be unwilling to help at all on worse reactions.
+
+Quartermaster Koinos Thales: Fighter 3; Str 12, Int 13, Wis 13, Dex 9, Con 10, Cha 9; MV 60; AC 6 (banded & shield), HD 3, hp 13, #AT 1, D 1d6+2 (spear or sword), Save F2, ML +1, AL L, XP 50; Proficiencies: Bargaining, Military Strategy, Profession (quartermaster); Leadership Ability 4, Strategic Ability +2, Morale Modifier 0; Equipment: 1gp, 20sp
+
+![[Quartermaster_Koinos_Thales.webp]]

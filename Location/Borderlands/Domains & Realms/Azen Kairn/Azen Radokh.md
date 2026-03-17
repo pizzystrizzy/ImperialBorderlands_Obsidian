@@ -1,0 +1,3 @@
+A fortified dwarven vault built high in the [[Meniri Mountains|Mountains of Meniri]], **Azen Radokh** was originally a mining outpost of [[Azen Kairn]]. When Azen Kairn fell to the dragon Orm in 225 BE, its refugees settled here and excavated a great vault. Azen Radokh sits upon a rich strata of precious metals, which fuels trade with [[Siadanos]] to the east. Sadly, much of the wealth of Azen Radokh passes south in tribute to Orm, lest the great dragon come with fire upon the last of the dwarven vaults in the east. 
+
+#Realm: [[Azen Kairn]]

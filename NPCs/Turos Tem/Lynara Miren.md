@@ -1,0 +1,9 @@
+**Subaltern Lynara Miren**. Young, charismatic, and vivaciously healthy, Subaltern Lynara Miren has golden skin and slightly pointed ears that betray hints of Argollëan ancestry. She is not especially cut out for the life of a soldier, but her father and grandfather both served in the Auran legion and, lacking any siblings, she felt compelled to maintain the tradition. Miren is naturally gregarious, but finds little pleasure in the company of soldiers (especially not thuggish Subaltern [[Methori]]), and distinctions of social class leave her at unease with her superiors. Her best friend in the fortress is Malyn, who amuses her with his magical tricks and tales of the white city of Aura.
+![[Subaltern_Lynara_Miren.webp]]
+
+
+Like the other soldiers, Miren assembles each sunrise at the crosshall in the headquarters building (18b) to receive the orders of the day. During the day, she is either stationed in the avenue (4) to supervise the main gate, or she leads the cavalry on maneuvers at the parade ground (22). In the late afternoon she visits the bathhouse (24). Thereafter she occasionally carouses at the inn with the other soldiers (23), but usually visits Malyn at the chapterhouse (20) before returning to her quarters (9e) in the cavalry barracks block.
+
+With a Friendly reaction roll, Miren will share a rumor and offer to introduce the adventurers to [[Malyn the Misshapen]]. With an Unfriendly or Hostile reaction roll, she will disparage them to Malyn, earning a −2 penalty to any future reaction rolls with the mage (−4 if Hostile).
+
+Subaltern Lynara Miren: Fighter 3; Str 10, Int 9, Wis 10, Dex 11, Con 15, Cha 16; MV 180’, AC 7 (plate & shield), HD 3, hp 16, \#AT 1, D 1d10+2 (lance) or 1d6+2 (composite bow or sword), Save F3, ML +3, AL L, XP 50; Proficiencies: Alertness, Command, Riding; Leadership Ability 6, Strategic Ability 0, Morale Modifier +4; Equipment: 1gp, 20sp

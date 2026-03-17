@@ -1,0 +1,5 @@
+The flow of the [[Mirmen River]] slows here, where it widens to over a mile wide, and sediment deposits have over time formed an eyot (river island). **Türos Quell ("Journey-Castle")** is situated on the eyot and connected by fortified bridges to roads that run north, northwest, southwest, and south. Originally a Krysean fort, Türos Quell was renamed and repurposed by Audarius XI Ulkyreus to serve as part of his Unbroken Line. The fort is equipped with twelve naval skiffs, small flat-bottomed open boats with pointed bows, designed to operate in the Mirmen and [[Viamir Marshes]]. With most of his troops dispatched west, the cautious and reserved Legate Caros Lubbo no longer sends active patrols into the Viamir but would rent or loan them to adventurers seeking to explore the Viamir.
+
+#Realm: [[Samos]]
+#Realm: [[Cyfaraun]]
+#Realm: [[Auran Empire]]

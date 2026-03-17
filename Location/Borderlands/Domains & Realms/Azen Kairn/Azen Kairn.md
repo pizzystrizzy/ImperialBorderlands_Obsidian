@@ -1,0 +1,3 @@
+Deep within the Mountains of Meniri lie the fire-blackened **ruins of Azen Kairn**. Founded by dwarves from Azen Khador during the Bitter War (2500 - 2000 BE), it became the largest dwarven vault in the eastern [[Meniri Mountains]] after Khador was destroyed by the Argollëan elves. In 225 BE, at the height of the Beastman Wars, Azen Kairn was conquered by the great red dragon Orm and an army of beastmen. Orm has ruled there ever since, spawning a brood of lesser dragons. For five centuries, the dwarves of [[Azen Radokh]] have paid tribute to Orm, lest he unleash dragon-fire upon them, and his hoard is said to be the largest in Aurëpos.
+
+#Realm: [[Azen Kairn]]

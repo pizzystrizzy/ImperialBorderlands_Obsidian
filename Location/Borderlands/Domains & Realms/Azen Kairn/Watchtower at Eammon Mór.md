@@ -1,0 +1,3 @@
+**Watchtower at Eammon Mór**: A ruined elven watchtower of white granite rises from Eammon Mór, a mighty tor that dwarfs the surrounding woody hills. Built after the elven victory in the Beastmen Wars (219 BE) to watch for invaders from [[The Dark Wall]], the watchtower was abandoned when the elves lost control of Southern Argollë to the Aurans (166 IY). Today the watchtower and the bunkers beneath it have fallen under control of **Turtak**, an **ogre warlord** who commands a warband of some 170 ogres and **gnolls**. Turtak is a vassal of **Orm**, the great dragon who rules [[Azen Kairn|Azen Kairn]].
+
+#Realm: [[Azen Kairn]]

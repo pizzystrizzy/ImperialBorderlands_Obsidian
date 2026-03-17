@@ -1,0 +1,8 @@
+**Subaltern Peleos Methori** is a balding, ugly, dull-eyed man in his late 20s with several missing teeth and a badly broken nose. What he lacks in charm or wit he makes up for in burly strength, raw speed, and insensitivity to pain. Methori enjoys bloodshed, whether it be slaying beastmen or whipping recalcitrant legionaries, and is very good at his work. Centurion Ilarion considers him a useful, but limited tool.
+![[PeleosMethori.png]]
+
+At dawn, Methori assembles at the cross-hall in the headquarters building (18b) to receive the orders of the day. During the day, he is either stationed in the avenue (4) to supervise the main gate or he drills the infantry at the parade ground (22). In the late afternoon he cleans up at the village bathhouse (24), then usually visits the inn (23) before returning to his quarters (14d) in the infantry barracks block.
+
+Methori served for many years with Drusus, the bandit chief (see p. 41), and the two men once considered each other bloodbrothers, though they have fallen out of touch since Drusus’ desertion. If he learns that the characters seek to collect the reward for capturing or slaying Drusus (posted in 18b), he will attempt to dissuade them – “Drusus will eat you up and spit out your remains like seeds.” If the characters capture or slay Drusus, Methori immediately becomes Hostile, and he will either attempt to free the bandit or take revenge on his killer(s).
+
+Subaltern Peleos Methori: Fighter 3; Str 14, Int 7, Wis 10, Dex 13, Con 15, Cha 8; MV 240’, AC 7 (banded & shield), HD 3, hp 24, #AT 1, D 1d6+3 (spear or sword), Save F3, ML +1, AL N, XP 50; Proficiencies: Command, Fighting Style (weapon & shield), Manual of Arms; Leadership Ability 3, Strategic Ability −1, Morale Modifier +1; Equipment: 1gp, 20sp

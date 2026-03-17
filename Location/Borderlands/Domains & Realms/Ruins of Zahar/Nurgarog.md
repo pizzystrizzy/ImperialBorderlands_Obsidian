@@ -1,0 +1,3 @@
+**Nurgarog** is a ruined Zaharan fortress that now serves as the stronghold for a beastman clanhold. A **tribe of dire orcs** lives in this hex, with another **six tribes of ordinary beastmen** dwelling in mudbrick hamlets spread across six adjoining hexes. The dire orc chieftain, **Otoug**, is a vassal of Sebek, Lord of Secrets, ruler of [[Ruins of Zahar|Zahar]]. Otoug himself has two sub-vassals, each with a clanhold of seven beastman tribes. These clanholds are located deep in [[The Waste]]. 
+
+#Realm: [[Ruins of Zahar|Zahar]]
