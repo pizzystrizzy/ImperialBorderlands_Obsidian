@@ -10,7 +10,7 @@
     
 - **C. Villa Irenia:** This four-story, austere stone tower belongs to the **Irenius family**. It is a cold, echoing place. **Celictor Irenius** (Mechanikos 6, 17 hp) is an engineer working for Mechanikos Mega Belicarius, and spends his days in the manufactury. The youngest son, **Astanor Irenius**, spends his days on the roof garden, ignoring the "gloomy air" of the port. He is a classic decaying aristocrat—he knows nothing of the ballista business but can speak at length about the specific vintage of the wine the Legate serves to the **Ulrukan corsairs**.
     
-- **D. Villa Drakonus:** The residence of **Xandrina Drakon**, the matriarch of her family and Magister Portus . Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xandrina is a highly efficient . She is the most likely person to notice the discrepancy in shipping manifests; she knows exactly how many crates of bolts have left her factory and how many "disappeared" once they reached the Legate’s docks.
+- **D. Villa Drakonus:** The residence of the Magister Portus, **Xandrina Drakon**, matriarch of her family. Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xandrina is a highly efficient . She is the most likely person to notice the discrepancy in shipping manifests; she knows exactly how many crates of bolts have left her factory and how many "disappeared" once they reached the Legate’s docks.
     
 - **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests.
     
@@ -21,7 +21,7 @@
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
-- **M. Fabrica Ballistaria:** Owned by the **Irenius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls. The youngest son, **Astanof Irenius**, remains a layabout aristocrat who spends his days drinking watered wine and reciting bad poetry, oblivious to the fact that his family’s "missing" shipments are actually being diverted by the Legate.
+- **M. Fabrica Ballistaria:** Owned by the **Belicarius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls. The youngest son, **Astanof Irenius**, remains a layabout aristocrat who spends his days drinking watered wine and reciting bad poetry, oblivious to the fact that his family’s "missing" shipments are actually being diverted by the Legate.
     
 - **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure, formerly a trebuchet factory, is the center of trade. **Guildmaster Valerius** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
