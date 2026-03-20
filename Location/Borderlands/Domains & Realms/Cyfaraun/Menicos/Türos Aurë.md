@@ -19,7 +19,7 @@
 
 ### **The Fabricae (Imperial Factories) & Manors**
 
-- **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena" (the missing ships), though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
+- **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
 - **M. Fabrica Ballistaria:** Owned by the **Irenius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls. The youngest son, **Astanof Irenius**, remains a layabout aristocrat who spends his days drinking watered wine and reciting bad poetry, oblivious to the fact that his family’s "missing" shipments are actually being diverted by the Legate.
     
@@ -30,7 +30,7 @@
 
 ### **Civilian Life & Shadows**
 
-- **G. The Imperial Thermae:** The old asylum has been converted into a proper Roman-style bath house. It is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, though the "Kind and Gentle" treatment of the old owner has been replaced by the rough scrubbing of overworked slaves.
+- **G. The Imperial Thermae:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
     
 - **H. Talich Officina:** The foundry remains the primary metalworks. **Milena Talich** still runs the floor, but in this setting, her vampirism is a dark secret that ties her to the **Argollëan Family**. They provide her with "fresh talent" in exchange for the untraceable coins she mints in the foundry’s deep cellars.
     
