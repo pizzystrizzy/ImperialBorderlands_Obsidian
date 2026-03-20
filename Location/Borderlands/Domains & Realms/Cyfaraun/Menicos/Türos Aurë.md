@@ -1,7 +1,7 @@
 **Türos Aurë ("Sea-Castle")** is the easternmost fort in the line constructed by Tarkaun Audarius XI Ulkyreus. It guards the mouth of the [[Krysivor River]] and the coastline. Legate Retunus Natherian is a greedy and grasping man, and he exploits his control of the small port here to the fullest extent. He has even been known to permit corsairs from the Free Cities of Ulrukan to anchor here if their gold is shiny enough. In the past season, his profits have been low. Several expected ships simply never made it to port. The most recent merchant ship arrived empty of any crew - though the deck was splattered with blood and the topsails were torn and pierced as if by great weapons (the manticores from the [[Lair of the Manticore]] are to blame). Adventurers of a flexible disposition who visit Türos Aurë may be recruited to investigate.
 
 
-![[Pasted image 20260320023056.png]]
+![[Turos_Aure_Map.png]]
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
