@@ -12,7 +12,7 @@
     
 - **D. Villa Dunstonia:** The residence of **Xandrina Drakon**, the matriarch of the siege weapon munitions empire (L). Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xandrina is highly efficient. She is the most likely person to notice the discrepancy in shipping manifests; she knows exactly how many crates of bolts have left her factory and how many "disappeared" once they reached the Legate’s docks.
     
-- **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. While she lacks the financial reach of the old Abadar priests, her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's "corsair guests."
+- **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests.
     
 - **F. The Sea Castle (Castrum Mare):** The military heart of the town. This is the seat of **Legate Retunus Natherian**. It’s less a "city watch" post and more a fortified palace-barracks. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, counting "port fees" or entertaining questionable "merchants" from Ulrukan.
     
