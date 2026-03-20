@@ -4,9 +4,13 @@
 ![[Turos_Aure_Map.png]]
 
 
-### **The Citadels & Spiritual Centers**
-
 - **A. The Pharos of Naurivas:** Formerly the Lonely Hearth, this lighthouse now serves as a high-altitude shrine to **Naurivas**. Staffed by **Brother Varo** of the **Order of Travelers**, it remains a beacon for ships navigating the Krysivor. Varo is happy to share rumors of distant lands, provided the PCs don't interfere with the sacred oils used to keep the light burning.
+
+- **B. Insula Inclemens (Rumalinus Estate):** Located on the "Merciless Isle," this is the private retreat of the **Rumalinus family**, who own the catapult works (O). The villa is guarded by veterans of the Auran Navy. Here you’ll find **Glindia Taroon**, the _Vilicus_ (steward). She is notoriously tight-lipped because her masters are currently being squeezed for "protection tribute" by Legate Retunus. If the PCs want to know why the catapult output is down, she might hint that the Legate’s "privateers" have been stealing the necessary timber before it reaches the isle.
+    
+- **C. Villa Irenia:** This four-story, austere stone tower belongs to the **Irenius family**, masters of the Ballista Factory (M). It is a cold, echoing place. The youngest son, **Astanof Irenius**, spends his days on the roof garden, ignoring the "gloomy air" of the port. He is a classic decaying aristocrat—he knows nothing of the ballista business but can speak at length about the specific vintage of the wine the Legate serves to the **Ulrukan corsairs**.
+    
+- **D. Villa Dunstonia:** The residence of **Xandrina Dunstonia**, the matriarch of the munitions empire (L). Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xandrina is "New Money" and highly efficient. She is the most likely person to notice the discrepancy in shipping manifests; she knows exactly how many crates of bolts have left her factory and how many "disappeared" once they reached the Legate’s docks.
     
 - **E. Temple of Mityara:** Replacing the Bank of Abadar, this is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort. While she lacks the financial reach of the old Abadar priests, her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's "corsair guests."
     
