@@ -21,9 +21,9 @@
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
-- **M. Fabrica Ballistaria:** Owned by the **Belicarius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls. The youngest son, **Astanof Irenius**, remains a layabout aristocrat who spends his days drinking watered wine and reciting bad poetry, oblivious to the fact that his family’s "missing" shipments are actually being diverted by the Legate.
+- **M. Fabrica Ballistaria:** Owned by the **Belicarius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands.
     
-- **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure, formerly a trebuchet factory, is the center of trade. **Guildmaster Valerius** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
+- **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
 - **O. Fabrica Onagri:** The **Rumalinus family** runs the catapult works here. Despite working around the clock, their output is stagnant. Rumor has it the **Sand & Bones Guild** has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
     
