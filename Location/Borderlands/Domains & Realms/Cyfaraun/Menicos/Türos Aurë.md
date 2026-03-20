@@ -23,9 +23,9 @@
     
 - **M. Fabrica Ballistaria:** Owned by the **Belicarius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands.
     
-- **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
+- **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales Motoratos** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
-- **O. Fabrica Onagri:** The **Rumalinus family** runs the catapult works here. Despite working around the clock, their output is stagnant. Rumor has it the **Sand & Bones Guild** has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
+- **O. Fabrica Onagri:** The **Belicarius family** runs the catapult works here. Despite working around the clock, their output is stagnant. Rumor has it the **Sand & Bones Guild** has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
     
 
 ### **Civilian Life & Shadows**
