@@ -32,7 +32,7 @@
 
 - **G. The Imperial Thermae:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
     
-- **H. Talich Officina:** The foundry remains the primary metalworks. **Milena Talich** still runs the floor, but in this setting, her vampirism is a dark secret that ties her to the **Argollëan Family**. They provide her with "fresh talent" in exchange for the untraceable coins she mints in the foundry’s deep cellars.
+- **H. Talich Officina:** The foundry remains the primary source of raw metal used in manufacture. **Melania  Talich** still runs the floor, but in this setting, her vampirism is a dark secret that ties her to the **Argollëan Family**. They provide her with "fresh talent" in exchange for the untraceable coins she mints in the foundry’s deep cellars.
     
 - **I. Taberna Hamatus (The Baited Hook):** This remains a dive, but it’s now the unofficial headquarters for the **Sand & Bones Guild**. If a PC wants to find a corsair from Ulrukan or buy information on why ships are disappearing, they start here. **Pindra Coxswai** still spins tall tales, but now they’re about her days as a "sea-wolf" raiding the Southern coast.
     
