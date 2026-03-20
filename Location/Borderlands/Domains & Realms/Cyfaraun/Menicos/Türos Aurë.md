@@ -14,7 +14,7 @@
     
 - **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests.
     
-- **F. The Sea Castle (Castrum Mare):** The military heart of the town. This is the seat of **Legate Retunus Natherian**. It’s less a "city watch" post and more a fortified palace-barracks. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, counting "port fees" or entertaining questionable "merchants" from Ulrukan.
+- **F. The Sea Castle:** The military heart of the town, which also serves as a secondary lighthouse and is the oldest structure in the se. This is the seat of **Legate Retunus Natherian**. It’s less a "city watch" post and more a fortified palace-barracks. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, counting "port fees" or entertaining questionable "merchants" from Ulrukan.
     
 
 ### **The Fabricae (Imperial Factories) & Manors**
