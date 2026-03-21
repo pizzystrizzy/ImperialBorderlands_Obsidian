@@ -16,7 +16,7 @@
     
 - **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan
 
-- **G. The Imperial Thermae:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
+- **G. The Imperial Thermae & Hypocausts:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
     
 - **H. Kavalatar Funditoria:** The foundry remains the primary source of raw metal used in manufacture. The owner of the foundry, **Astydamia Kavalatar**, has a dark secret: She is has been transformed into a vampire. Most of her workers are now dominated by her. She was turned by the ancient Zaharan vampire **Rābiṣ Tâmti Lammalû**, who leads the cult **Puḫur Tâmti** (known in classical Auran as Ordo Istraurën, or the Order of the Hidden Sea). The Istrauri are devoted to keeping Lammala's teachings alive.
     
