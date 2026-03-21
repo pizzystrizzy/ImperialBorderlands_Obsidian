@@ -28,7 +28,7 @@
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
-- **M. Norus Zeraromus:** Owned by the **Belicarius family**, this warehouse stor
+- **M. Norus Zeraromus:** This warehouse and grainery stores the settlement's goods for trade as well as longer term stocks of food. It is managed by the Magister Portus, **Xylara Drakon**
     
 - **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales Motoratos** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
