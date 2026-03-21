@@ -24,7 +24,7 @@
 
 - **J. Gundërananar (roughly, The She-Wolf Slut)**: This bawdyhouse is a front for the **Sand & Bones Guild**. Led by brothelkeeper **Euplia Nuvicerres** (Thief 6, 14 hp), the Gundërananar employs both men and women, and is also a place where one can gamble and find illicit drugs. One prostitute, **Eutikis Tarus** (Priestess of Nasga 3, 9 hp), hoped to become a priestess of Ianna; despite her piety, however, divine power has eluded her. Disappointed, frustrated, and laden with doubt, Eutikis began dreaming of the goddess Nasga. Eventually, she made a profession of faith and has been building a shrine in a secret area she found in the basement of the bawdyhouse.
 
-- **K. Pellus Cassian’s Domus:** A humble Roman-style house. **Pellus Cassian** remains your Pathfinder (or Society of the Sword) informant. He’s a veteran of the Auran legions who kept his ears open and his sword sharp.
+- **K. Pellus Cassian’s Domus:** A humble Roman-style house belonging to **Subaltern Pellus Cassian**, a veteran of the Auran legions who kept his ears open and his sword sharp.
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
