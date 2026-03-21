@@ -38,7 +38,7 @@
 Rumors
 
 - The most recent merchant ship arrived empty of any crew - though the deck was splattered with blood and the topsails.
-- 
+- We are being hunted by man-eating red lions with a human head and a huge scorpion tail covered with barbs and a stinger over a cubit in length.
 
 
 #Realm: [[Menicos]]
