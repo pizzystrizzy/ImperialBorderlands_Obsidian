@@ -4,7 +4,7 @@
 ![[Turos_Aure_Map.png]]
 
 
-- **A. The Pharos of Naurivas:** Formerly the Lonely Hearth, this lighthouse now serves as a high-altitude shrine to **Naurivas**. Staffed by **Brother Varo** of the **Order of Travelers**, it remains a beacon for ships navigating the Krysivor. Varo is happy to share rumors of distant lands, provided the PCs don't interfere with the sacred oils used to keep the light burning.
+- **A. The Pharos of Naurivas:** Formerly the Lonely Hearth, this lighthouse now serves as a high-altitude shrine to **Naurivas**. Staffed by **Brother Varo** of the **Order of Travelers**, it remains a beacon for ships navigating the Krysivor. Varo is happy to share rumors of distant lands, provided the PCs don't interfere with the sacred oils used to keep the light burning. This is the only part of the settlement that is south of the Krysivor River.
 
 - **B. Insula Inclemens (Belicarius Estate):** Located on the "Merciless Isle," this is the private retreat of the **Master Artificer Spyros Belicarius** (Mechanikos 9, 27 hp) who control the siege weaponry manufacturing. The villa is guarded by veterans of the Auran Navy. Here you’ll find **Vilicus**, Spyros's personal automaton, and Spyros's wife **Eliona** (whom he is cheating on with Priestess Lucilla).
     
