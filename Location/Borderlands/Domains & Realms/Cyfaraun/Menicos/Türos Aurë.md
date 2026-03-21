@@ -28,11 +28,11 @@
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
-- **M. Norus Ballistaria:** Owned by the **Belicarius family**, this manufactory produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands, along with catapults and trebuchets.
+- **M. Norus Zeraromus:** Owned by the **Belicarius family**, this manufactory produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands, along with catapults and trebuchets.
     
 - **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales Motoratos** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
-- **O. Norus Ballistaria:** The Belicarius family runs the siege weapons manufactury here, which produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands, along with catapults and longer-range trebuchets. Despite working around the clock, their output is stagnant. Rumor has it the Sand & Bones Guild has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
+- **O. Norus Ballistaria:** The **Belicarius family** runs the siege weapons manufactury here, which produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands, along with catapults and longer-range trebuchets. Despite working around the clock, their output is stagnant. Rumor has it the Sand & Bones Guild has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
     
 
 - 
