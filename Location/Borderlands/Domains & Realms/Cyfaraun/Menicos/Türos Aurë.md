@@ -14,7 +14,7 @@
     
 - **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests.
     
-- **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan
+- **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan. His son, Salius 
 
 - **G. The Imperial Thermae & Hypocausts:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked attendants.
     
@@ -22,7 +22,7 @@
     
 - **I. Dëmëvandelus Naurivani (The Sailors' Inn):** This remains a dive, but it’s now the unofficial headquarters for the local branch of the **Argollëan Family**. If a PC wants to find a corsair from the Free Cities of Ulrukan or learn any regional/nautical rumors, they start here. Its clientele is often unwashed and uncouth, and even its best rooms are infested with bed bugs and the stench of body odor. The innkeeper **Caelia Thraxus** is a great source of rumors but often exaggerates what she's heard and inserts details of her own child aboard an Arganosan warship captained by her father, or her exploits as a "sea-wolf" raiding the Southern coast--all of which is bullshit meant to drum up business, but now they’re 
 
-- **J. Gundërananar (roughly, The She-Wolf Slut)**: This bawdyhouse is a front for the **Sand & Bones Guild**. Led by brothelkeeper Euplia Nuvicerres (T6, 14 hp), the Gundërananar employs both men and women, and is also a place where one can gamble and find illicit drugs. One prostitute, Eutikis Tarus, hoped to become a priestess of Ianna, but despite her piety, 
+- **J. Gundërananar (roughly, The She-Wolf Slut)**: This bawdyhouse is a front for the **Sand & Bones Guild**. Led by brothelkeeper Euplia Nuvicerres (T6, 14 hp), the Gundërananar employs both men and women, and is also a place where one can gamble and find illicit drugs. One prostitute, Eutikis Tarus, hoped to become a priestess of Ianna; despite her piety, however, divine power has eluded her. Dissapointed, frustrated, and laden with doubt, Eutikis has heard rumors of the Ordo Istraurën and is curious about joining, if it even exists.
 
 - **K. Aldrim’s Domus:** A humble Roman-style house. **Gerhart Aldrim** remains your Pathfinder (or Society of the Sword) informant. He’s a veteran of the Auran legions who kept his ears open and his sword sharp.
 
