@@ -6,4 +6,6 @@ His daughter Nindukugga is another vassal who commands a tribe of ogres at the [
 
 The dwarf Norden Radokh, ruler of [[Azen Radokh]], is a third vassal of Orm.
 
+Finally, a fourth vassal, the fire giant Embarra, rules a tribe of fire giants.
+
 #Realm: [[Azen Kairn]]
