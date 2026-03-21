@@ -4,4 +4,6 @@ His vassal Turtak is an ogre warlord who commands a warband at the [[Watchtower 
 
 His daughter Nindukugga is another vassal who commands a tribe of ogres at the [[Redoubt on the Earthway]].
 
+The dwarf Norden Radokh, ruler of [[Azen Radokh]], is a third vassal of Orm.
+
 #Realm: [[Azen Kairn]]
