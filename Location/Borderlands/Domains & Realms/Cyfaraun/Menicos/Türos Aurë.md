@@ -10,14 +10,20 @@
     
 - **C. Villa Irenia:** This four-story, austere stone tower belongs to the **Irenius family**. It is a cold, echoing place. **Celictor Irenius** (Mechanikos 6, 17 hp) is an engineer working for Mechanikos Mega Belicarius, and spends his days in the manufactury. The youngest son, **Astanor Irenius**, spends his days on the roof garden, ignoring the "gloomy air" of the port. He is a classic decaying aristocrat—he knows nothing of the ballista business but can speak at length about the specific vintage of the wine the Legate serves to the **Ulrukan corsairs**.
     
-- **D. Villa Drakonus:** The residence of the Magister Portus, **Xylara Drakon** (Venturer 7, 21 hp), matriarch of her family. Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xylara is a highly efficient leader, with a keen eye for arbitrage opportunities, who has developed several new trade routes in the borderlands. A joyful woman with a good ear for others, she is the most likely person to notice the discrepancy in shipping manifests; she knows exactly how many crates of bolts have left her factory and how many "disappeared" once they reached the Legate’s docks.
+- **D. Villa Drakonus:** The residence of the Magister Portus, **Xylara Drakon** (Venturer 7, 21 hp), matriarch of her family. Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xylara is a highly efficient leader, with a keen eye for arbitrage opportunities, who has developed several new trade routes in the borderlands. A joyful woman with a good ear for others, she is the most likely person to notice discrepancies in shipping manifests. She knows exactly how many crates have left her warehouse and how many "disappeared" once they reached the Legate’s docks.
     
 - **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests.
     
 - **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan.
-    
+- 
 
-### **The Fabricae (Imperial Factories) & Manors**
+- **G. The Imperial Thermae:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
+    
+- **H. Kavalatar Funditoria:** The foundry remains the primary source of raw metal used in manufacture. The owner of the foundry, **Astydamia Kavalatar**, has a dark secret: She is has been transformed into a vampire. Most of her workers are now dominated by her. She was turned by the ancient Zaharan vampire **Rābiṣ Tâmti Lammalû**, who leads the cult **Puḫur Tâmti** (known in classical Auran as Ordo Istraurën, or the Order of the Hidden Sea). The Istrauri are devoted to keeping Lammala's teachings alive.
+    
+- **I. Dëmëvandelus Naurivani (The Sailors' Inn):** This remains a dive, but it’s now the unofficial headquarters for the local branch of the **Sand & Bones Guild**. If a PC wants to find a corsair from the Free Cities of Ulrukan or learn any regional/nautical rumors, they start here. Its clientele is often unwashed and uncouth, and even its best rooms are infested with bed bugs and the stench of body odor. The innkeeper **Caelia Thraxus** is a great source of rumors but often exaggerates what she's heard and inserts details of her own child aboard an Arganosan warship captained by her father, or her exploits as a "sea-wolf" raiding the Southern coast--all of which is bullshit meant to drum up business, but now they’re 
+- **J. 
+- **K. Aldrim’s Domus:** A humble Roman-style house. **Gerhart Aldrim** remains your Pathfinder (or Society of the Sword) informant. He’s a veteran of the Auran legions who kept his ears open and his sword sharp.
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
@@ -27,16 +33,6 @@
     
 - **O. Fabrica Onagri:** The **Belicarius family** runs the catapult works here. Despite working around the clock, their output is stagnant. Rumor has it the **Sand & Bones Guild** has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
     
-
-### **Civilian Life & Shadows**
-
-- **G. The Imperial Thermae:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
-    
-- **H. Kavalatar Funditoria:** The foundry remains the primary source of raw metal used in manufacture. The owner of the foundry, **Astydamia Kavalatar**, has a dark secret: She is has been transformed into a vampire. Most of her workers are now dominated by her. She was turned by the ancient Zaharan vampire **Rābiṣ Tâmti Lammalû**, who leads the cult **Puḫur Tâmti** (known in classical Auran as Ordo Istraurën, or the Order of the Hidden Sea). The Istrauri are devoted to keeping Lammala's teachings alive.
-    
-- **I. Dëmëvandelus Naurivani (The Sailors' Inn):** This remains a dive, but it’s now the unofficial headquarters for the local branch of the **Sand & Bones Guild**. If a PC wants to find a corsair from the Free Cities of Ulrukan or learn any regional/nautical rumors, they start here. Its clientele is often unwashed and uncouth, and even its best rooms are infested with bed bugs and the stench of body odor. The innkeeper **Caelia Thraxus** is a great source of rumors but often exaggerates what she's heard and inserts details of her own child aboard an Arganosan warship captained by her father, or her exploits as a "sea-wolf" raiding the Southern coast--all of which is bullshit meant to drum up business, but now they’re 
-- **J. 
-- **K. Aldrim’s Domus:** A humble Roman-style house. **Gerhart Aldrim** remains your Pathfinder (or Society of the Sword) informant. He’s a veteran of the Auran legions who kept his ears open and his sword sharp.
 
 
 #Realm: [[Menicos]]
