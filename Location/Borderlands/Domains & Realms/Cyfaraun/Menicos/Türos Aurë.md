@@ -28,7 +28,7 @@
 
 - **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands.
     
-- **M. Fabrica Ballistaria:** Owned by the **Belicarius family**, this factory produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands.
+- **M. Norus Ballistaria:** Owned by the **Belicarius family**, this manufactory produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands, along with catapults and treb.
     
 - **N. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales Motoratos** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
