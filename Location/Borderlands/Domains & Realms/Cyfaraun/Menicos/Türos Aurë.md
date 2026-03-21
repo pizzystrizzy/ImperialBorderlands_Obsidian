@@ -14,8 +14,7 @@
     
 - **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests.
     
-- **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan.
-- 
+- **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan
 
 - **G. The Imperial Thermae:** This proper Auran bath house is the social hub of Türos Aurë. Under the steam and splashing water, the town's elite discuss politics and the Legate's corruption. It's the best place to overhear secrets, while receiving the rough scrubbing of overworked slave attendants.
     
@@ -33,6 +32,8 @@
     
 - **O. Fabrica Onagri:** The **Belicarius family** runs the catapult works here. Despite working around the clock, their output is stagnant. Rumor has it the **Sand & Bones Guild** has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes.
     
+
+- 
 
 
 #Realm: [[Menicos]]
