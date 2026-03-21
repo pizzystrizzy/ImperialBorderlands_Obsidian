@@ -22,7 +22,7 @@
     
 - **I. Dëmëvandelus Naurivani (The Sailors' Inn):** This remains a dive, but it’s now the unofficial headquarters for the local branch of the **Argollëan Family**. If a PC wants to find a corsair from the Free Cities of Ulrukan or learn any regional/nautical rumors, they start here. Its clientele is often unwashed and uncouth, and even its best rooms are infested with bed bugs and the stench of body odor. The innkeeper **Caelia Thraxus** is a great source of rumors but often exaggerates what she's heard and inserts details of her own child aboard an Arganosan warship captained by her father, or her exploits as a "sea-wolf" raiding the Southern coast--all of which is bullshit meant to drum up business, but now they’re 
 
-- **J. Gundërananar (roughly, The She-Wolf Slut)**: This bawdyhouse is a front for the **Sand & Bones Guild**. Led by brothelkeeper Euplia Nuvicerres (T6, 14 hp), the Gundërananar employs both men and women, and is also a place where one can gamble and find illicit drugs. 
+- **J. Gundërananar (roughly, The She-Wolf Slut)**: This bawdyhouse is a front for the **Sand & Bones Guild**. Led by brothelkeeper Euplia Nuvicerres (T6, 14 hp), the Gundërananar employs both men and women, and is also a place where one can gamble and find illicit drugs. One prostitute, Eutikis Tarus, hoped to become a priestess of Ianna, but despite her piety, 
 
 - **K. Aldrim’s Domus:** A humble Roman-style house. **Gerhart Aldrim** remains your Pathfinder (or Society of the Sword) informant. He’s a veteran of the Auran legions who kept his ears open and his sword sharp.
 
