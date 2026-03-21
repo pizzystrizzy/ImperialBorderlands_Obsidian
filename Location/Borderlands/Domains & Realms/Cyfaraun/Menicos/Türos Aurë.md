@@ -12,7 +12,7 @@
     
 - **D. Villa Drakonus:** The residence of the Magister Portus, **Xylara Drakon** (Venturer 7, 21 hp), matriarch of her family. Unlike the other manors, this one is a hive of activity, with messengers coming and going. Xylara is a highly efficient leader, with a keen eye for arbitrage opportunities, who has developed several new trade routes in the borderlands. A joyful woman with a good ear for others, she is the most likely person to notice discrepancies in shipping manifests. She knows exactly how many crates have left her warehouse and how many "disappeared" once they reached the Legate’s docks.
     
-- **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests. Some of the patients are
+- **E. Temple of Mityara:** This is the sanctum of the **Keepers of the Hearth Fire**. **High Priestess Lucilla** oversees the spiritual health of the fort, having been in residence for 10 years. Her order maintains the "Hearth’s Grace," a small infirmary for the legionnaires. She is deeply suspicious of the Legate's corsair guests. Some of the patients are there against their will due to insanity.
     
 - **F. The Sea Castle:** The military heart of the town, a fortified palace-barracks, which also serves as a secondary lighthouse. This is the seat of **Legate Retunus Natherian**. The air here is thick with the smell of salt and the sound of drilling legionnaires. Retunus can usually be found in the upper solar, receiving petitioners or entertaining questionable merchants from Ulrukan. His son, **Salius Natherian**, faces the prosepct of an arranged marriage to a woman he detests. Salius has had a somewhat wild youth, and before he is forced to settle down for good, he wants to indulge in depravity with the notorious rakes of the cult he's heard called the Ordo Istraurën.
 
@@ -37,8 +37,8 @@
 
 Rumors
 
-- The most recent merchant ship arrived empty of any crew - though the deck was splattered with blood and the topsails.
-- We are being hunted by man-eating red lions with a human head and a huge scorpion tail covered with barbs and a stinger over a cubit in length.
+- "The most recent merchant ship arrived empty of any crew -- though the deck was splattered with blood and the topsails."
+- "We are being hunted by man-eating red lions with a human head and a huge scorpion tail covered with barbs and a stinger over a cubit in length. I think their lair is south of here in Istrith Forest."
 
 
 #Realm: [[Menicos]]
