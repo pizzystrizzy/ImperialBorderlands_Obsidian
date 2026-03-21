@@ -39,6 +39,34 @@ Rumors
 
 - "The most recent merchant ship arrived empty of any crew -- though the deck was splattered with blood and the topsails."
 - "We are being hunted by man-eating red lions with a human head and a huge scorpion tail covered with barbs and a stinger over a cubit in length. I think their lair is south of here in Istrith Forest."
+- "I've heard there's a secret shrine, somewhere in the city, to a goddess of love. Not Ianna, mind you. An old goddess. I'm not even sure she has a name. Where it is I couldn't say, though."
+
+"Sometimes folks just disappear around here, usually after asking questions like you're asking. A Nicean woman was here a few weeks back, asking the same sorts of things, and where is she now?"
+
+"The legate is corrupt as hell. You can't walk within a mile of Turos Aure without his hand going into your pocket, whether you see it or not."
+
+(If the party is asking about cults) "There's no secret cults or strange happenings in Turos Aure. We're hard workers who mind our own business and don't get mixed up with that sort of big city stuff."
+
+(If the party is asking about cults) "It'd be hard for a cult to exist in Turos Aure without people knowing about it. The legate keeps a close eye on everything that goes on here in town, 'cause his livelihood depend on all of us working hard and producing."
+
+(If the party is asking about cults) "My brother works in he weapons factory, and he's always talking about secret cults and such. I don't put much weight in what he says."
+
+"A few stevedores and factory workers recently turned up dead in a coal bin. I heard that all the blood had been drained from their bodies!"
+
+"I heard that one of the legate's daughters got mixed up in a cult a few years back and ended up pregnant. I wonder which one it was and where the baby went."
+
+"I heard that visitor from out of town who last disappeared was from the Tower of Knowledge in Cyfaraun. Someone powerful must not have liked her poking a round and asking about forgotten gods and hidden cults."
+
+"Some people are locked away in a dungeon under the Temple of Mityara. They must have done terrible things"
+
+"The legate was killed long ago and replaced by a doppleganger from abroad, that's why he's so cozy with the pirates."
+
+"Sometimes, before folks disappear, they start actting strange and talking about service and eternal life and the resurrection of the dead or some such nonsense. Then again, sometimes people talk like that and they don't disappear; they just work hard and keep to themselves."
+
+"Something like 20 years ago, Astydamia Kavalatar had an illegitimate child I heard was half monster. The boy I guess died in childbirth, cause no one's ever seen it, and Astydamia's whole personality changed as a result. Now she rarely leaves the factory, and when she does she doesn't talk to anyone."
+
+"In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have a ny suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I 've visited they haven't been there."
+
 
 
 #Realm: [[Menicos]]
