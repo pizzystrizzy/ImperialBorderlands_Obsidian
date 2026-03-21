@@ -34,7 +34,7 @@
     
 - **H. Kavalatar Funditoria:** The foundry remains the primary source of raw metal used in manufacture. The owner of the foundry, **Astydamia Kavalatar**, has a dark secret: She is has been transformed into a vampire. Most of her workers are now dominated by her. She was turned by the ancient Zaharan vampire **Rābiṣ Tâmti Lammalû**, who leads the cult **Puḫur Tâmti** (known in classical Auran as Ordo Istraurën, or the Order of the Hidden Sea). The Istrauri are devoted to keeping Lammala's teachings alive.
     
-- **I. Taberna Hamatus (The Baited Hook):** This remains a dive, but it’s now the unofficial headquarters for the **Sand & Bones Guild**. If a PC wants to find a corsair from Ulrukan or buy information on why ships are disappearing, they start here. **Pindra Coxswai** still spins tall tales, but now they’re about her days as a "sea-wolf" raiding the Southern coast.
+- **I. Dëmëvandelus Naurivani (The Sailors' Inn):** This remains a dive, but it’s now the unofficial headquarters for the local branch of the **Sand & Bones Guild**. If a PC wants to find a corsair from Ulrukan or buy information on why ships are disappearing, they start here. **Pindra Coxswai** still spins tall tales, but now they’re about her days as a "sea-wolf" raiding the Southern coast.
     
 - **K. Aldrim’s Domus:** A humble Roman-style house. **Gerhart Aldrim** remains your Pathfinder (or Society of the Sword) informant. He’s a veteran of the Auran legions who kept his ears open and his sword sharp.
 
