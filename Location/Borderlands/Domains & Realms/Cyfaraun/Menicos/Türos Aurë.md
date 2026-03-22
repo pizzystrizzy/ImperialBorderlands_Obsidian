@@ -104,18 +104,17 @@ One of the temple workers is secretly a totenmaske, placed by the cult to watch 
 
 ### Totenmaske
 
-**Type**: Undead **Size**: Man-sized (8 st) **Speed (land)**: 40’ / 120’ **Armor Class**: 7 **Hit Dice**: 5+2** (average ~25–30 hp) **Attacks**: 2 claws / 1 bite (or 1 claw + bite if using one attack routine) **Damage**: 1d6 claw / 1d6 claw / 1d8 bite **Special Attacks**: Drink Flesh, Shape Flesh curse **Save**: F6 **Morale**: +3 (high but not unbreakable; flees if clearly outmatched after losing half HP) **Vision**: Lightless vision 60’ **Other Senses**: Standard **Proficiencies**: None **Normal Load**: 5 st. **Alignment**: Chaotic **Treasure Type**: D (personal hoarded valuables from victims) **XP**: 800–1,000 (base 660 like Mummy, + extra for multiple save-or-suck abilities; adjust to 800 if using strict ACKS XP tables)
+**Type**: Undead **Size**: Man-sized (8 st) **Speed (land)**: 40’ / 120’ **Armor Class**: 7 **Hit Dice**: 5+2** (average ~25–30 hp) **Attacks**: 2 claws / 1 bite (or 1 claw + bite if using one attack routine) **Damage**: 1d6 claw / 1d6 claw / 1d8 bite **Special Attacks**: Drink Flesh, Shape Flesh curse **Save**: F6 **Morale**: +3 (high but not unbreakable; flees if clearly outmatched after losing half HP) **Vision**: Lightless vision 60’ **Other Senses**: Standard **Proficiencies**: None **Normal Load**: 5 st. **Alignment**: Chaotic **Treasure Type**: D (personal hoarded valuables from victims) **XP**: 800
 
-**Undead Immunities**: Immune to sleep, charm, hold, poison, disease, death effects. Turned by clerics as a 5+ HD undead (same as Mummy).
+**Undead Immunities**: Immune to sleep, charm, hold, poison, disease, death effects. Turned by clerics as a 5+ HD undead.
 
 **Special Abilities**:
 
-- **Drink Flesh** — If the totenmaske hits the same living target with **both** claw attacks in one round (and remains adjacent), it may immediately drain flesh as a free action on its next turn. The victim must save vs. poison or suffer **energy drain** (lose 1 level of experience; –1 to attack/damage/saves per level lost until restored) **and** become **sickened** (–2 to attack rolls, damage rolls, and saves for 1d6 turns; cumulative). On a successful save, only the sickened effect applies (no level drain). This mirrors Mummy rot's punishing nature but trades slow curse progression for immediate combat impact.
+- **Drink Flesh** — If the totenmaske hits the same living target with **both** claw attacks in one round (and remains adjacent), it may immediately drain flesh as a free action on its next turn. The victim must save vs. poison or suffer **energy drain** (lose 1 level of experience; –1 to attack/damage/saves per level lost until restored) **and** become **sickened** (–2 to attack rolls, damage rolls, and saves for 1d6 turns; cumulative). On a successful save, only the sickened effect applies (no level drain). 
     
 - **Living Form** (disguise) — The totenmaske can assume the appearance of any Medium or smaller humanoid (its pre-death form or a recent victim) at will outside combat, or once per encounter in combat (takes 1 round to shift). This is visual only (no change to stats, movement, or attack damage), but claw/bite damage can be flavored as bludgeoning (fists/teeth) while disguised. Victims get a save vs. spells at –2 to disbelieve if suspicious (e.g., after interaction). Drops if the totenmaske is reduced below half HP or chooses to reveal itself.
     
-- **Shape Flesh** (curse) — If the totenmaske spends 1 full turn (10 minutes) in uninterrupted physical contact with a **paralyzed**, **unconscious**, **bound/restrained**, or **willing** victim, it can grotesquely reshape the target's face, sealing over one feature with living flesh. The victim saves vs. spells (or poison at –2). Failure causes permanent loss of one sense:
-    
+- **Shape Flesh** (curse) — If the totenmaske spends 1 full turn (10 minutes) in uninterrupted physical contact with a **paralyzed**, **unconscious**, **bound/restrained**, or **willing** victim, it can grotesquely reshape the target's face, sealing over one feature with living flesh. The victim saves vs. spells. Failure causes permanent loss of one sense:
     - **Ears** → deafened (–4 to surprise rolls; can't hear speech or commands).
     - **Eyes** → blinded (–4 to attack rolls; can't see).
     - **Mouth** → can't speak, eat, or drink (starves in days/weeks if not fed magically).
