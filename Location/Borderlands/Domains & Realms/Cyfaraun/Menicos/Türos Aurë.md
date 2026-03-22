@@ -47,6 +47,8 @@
 
 - "The legate is corrupt as hell. You can't walk within a mile of Turos Aure without his hand going into your pocket, whether you see it or not."
 
+- "The Legate’s been giving the corsairs more than just docking rights. Last month one of them was wearing an Auran legion signet ring the size of a hen’s egg. How does a pirate get something like that?"
+
 - (If the party is asking about cults) "There's no secret cults or strange happenings in Turos Aure. We're hard workers who mind our own business and don't get mixed up with that sort of big city stuff."
 
 - (If the party is asking about cults) "It'd be hard for a cult to exist in Turos Aure without people knowing about it. The legate keeps a close eye on everything that goes on here in town, 'cause his livelihood depend on all of us working hard and producing."
@@ -55,7 +57,9 @@
 
 - "A few stevedores and factory workers recently turned up dead in a coal bin. I heard that all the blood had been drained from their bodies!"
 
-- The Sands & Bones Guild doesn’t just run that bawdyhouse — they’ve got a floating pleasure palace that docks here once a month. Wine, dice, and beastman gladiators fighting for the crowd’s amusement. The captain calls it *Eden*.
+- "Those crates the Argollëan Family smuggles through here aren’t just 'antiquities.' some glow green under moonlight. I heard one stevedore touched one and woke up speaking elvish in his sleep."
+
+- "The Sands & Bones Guild doesn’t just run that brothel. They’ve got a floating pleasure barge that docks here once a month. Wine, dice, and beastman gladiators fighting for the crowd’s amusement. The captain calls it *Eden*."
 
 - "I heard that one of the legate's daughters got mixed up in a cult a few years back and ended up pregnant. I wonder which one it was and where the baby went."
 
