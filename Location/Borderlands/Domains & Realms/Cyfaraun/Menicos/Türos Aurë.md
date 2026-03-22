@@ -96,7 +96,8 @@ Further, Legate Natherian has started selling Auran military intelligence: ship 
 
 **Eutikis Taurus** has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitcores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold. Eutikis even visited the Lair of the Manticore once, receiving direct instruction from them in the faith of Nasga.
 
-The Sands & Bones Guild, led locally by **Euplia Nuvicerres**, has a larger task in addition to running their bawdyhouse. The leader of the Guild, **Selene Nictorian**, has given her two important tasks. First, see that captives brought by corsairs make their way to Cyfaraun where they can be sold (whether to fight in the arena or to perform other services). Second, Selene has been operating a riverboat gambling barge that caters to both human and beastman alike. When the barge arrives at Türos Aurë, Euplia makes sure it is resupplied. Euplia also 
+The Sands & Bones Guild, led locally by **Euplia Nuvicerres**, has a larger task in addition to running their bawdyhouse. The leader of the Guild, **Selene Nictorian**, has given her two important tasks. First, see that captives brought by corsairs make their way to Cyfaraun where they can be sold (whether to fight in the arena or to perform other services). Second, Selene has been operating a riverboat gambling barge that caters to both human and beastman alike. When the barge arrives at Türos Aurë, Euplia makes sure it is resupplied. Euplia also does her best to promote the barge to her clientele. 
+
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
 #Realm: [[Auran Empire]]
