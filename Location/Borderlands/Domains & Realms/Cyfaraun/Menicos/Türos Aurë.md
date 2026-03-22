@@ -103,7 +103,7 @@ In the basement of the Temple of Mityara, the hospital involuntarily houses a fe
 One of the temple workers is secretly a totenmaske, placed by the cult to watch over Erebos. If the party tries to rescue Erebos, the temple workers will try to stop them, and if necessary, the totenmaske will reveal itself and attack, murdering the other temple workers in the process.
 
 ### Totenmaske
-
+![[totenmaske.webp]]
 **Type**: Undead **Size**: Man-sized (8 st) **Speed (land)**: 40’ / 120’ **Armor Class**: 7 **Hit Dice**: 5+2** (average ~25–30 hp) **Attacks**: 2 claws / 1 bite (or 1 claw + bite if using one attack routine) **Damage**: 1d6 claw / 1d6 claw / 1d8 bite **Special Attacks**: Drink Flesh, Shape Flesh curse **Save**: F6 **Morale**: +3 (high but not unbreakable; flees if clearly outmatched after losing half HP) **Vision**: Lightless vision 60’ **Other Senses**: Standard **Proficiencies**: None **Normal Load**: 5 st. **Alignment**: Chaotic **Treasure Type**: D (personal hoarded valuables from victims) **XP**: 800
 
 **Undead Immunities**: Immune to sleep, charm, hold, poison, disease, death effects. Turned by clerics as a 5+ HD undead.
