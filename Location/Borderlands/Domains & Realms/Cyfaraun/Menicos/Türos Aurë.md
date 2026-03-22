@@ -55,7 +55,11 @@
 
 - "A few stevedores and factory workers recently turned up dead in a coal bin. I heard that all the blood had been drained from their bodies!"
 
+- The Sands & Bones Guild doesn’t just run that bawdyhouse — they’ve got a floating pleasure palace that docks here once a month. Wine, dice, and beastman gladiators fighting for the crowd’s amusement. The captain calls it *Eden*.
+
 - "I heard that one of the legate's daughters got mixed up in a cult a few years back and ended up pregnant. I wonder which one it was and where the baby went."
+
+- "One of the temple workers has the strangest face… it changes when you’re not looking straight at her. Like it’s not quite finished. Gives me the chills every time I visit the infirmary."
 
 - "I heard that visitor from out of town who last disappeared was from the Tower of Knowledge in Cyfaraun. Someone powerful must not have liked her poking a round and asking about forgotten gods and hidden cults."
 
