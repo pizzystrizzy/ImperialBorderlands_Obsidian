@@ -69,17 +69,9 @@
 
 - "In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have a ny suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I 've visited they haven't been there."
 
-### Other Secrets
 
-The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. 
 
-The Legate isn't just turning a blind eye to some smuggling; he's actively commissioning corsairs to raid Auran merchant convoys that refuse to pay his “port tax” or that belong to rival houses. The corsairs fly false flags, hit the ships at sea (often ships going to or coming from Arganos), then sail into Türos Aurë at night to offload the loot. The blood-splattered ship the Legate wants the PCs to investigate was one of the Legate’s own arranged raids that went wrong. The manticores attacked the corsair vessel instead, slaughtered the crew, leaving the ship to drift back empty.
-
-Further, Legate Natherian has started selling them Auran military intelligence: ship and troop movements, ballistae production numbers from the Belicarius manufactory (O), even the patrol schedules of the other river forts. The corsairs are using that intel to ambush Auran supply ships, weakening the entire eastern border. If the PCs discover the coded ledgers in the Sea Castle (F) or the secret strongroom under the Sailors’ Inn (I), they now have proof of high treason. 
-
-Eutikis has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitcores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold. Eutikis even visited the Lair of the Manticore once, receiving direct instruction from them 
-
-#### Factions
+### Factions
 
 - **The Merchant Guild** (Guildmaster Thales Motoratos, Xylara Drakon, and associates)
 	- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. 
@@ -93,6 +85,16 @@ Eutikis has been performing blood-rites in the secret shrine to Nasga using the 
 - **Belicarius manufactory**
 	- Goal: Make enough profit with siege warfare to fund further automata development. Build weapons necessary to take down Orm (Vitruvius specifically).
 	- Benefit: PCs who plan on waging war may benefit from establishing a good relationship with the Belicarius family.
+
+### Other Secrets
+
+The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. 
+
+The Legate isn't just turning a blind eye to some smuggling; he's actively commissioning corsairs to raid Auran merchant convoys that refuse to pay his “port tax” or that belong to rival houses. The corsairs fly false flags, hit the ships at sea (often ships going to or coming from Arganos), then sail into Türos Aurë at night to offload the loot. The blood-splattered ship the Legate wants the PCs to investigate was one of the Legate’s own arranged raids that went wrong. The manticores attacked the corsair vessel instead, slaughtered the crew, leaving the ship to drift back empty.
+
+Further, Legate Natherian has started selling them Auran military intelligence: ship and troop movements, ballistae production numbers from the Belicarius manufactory (O), even the patrol schedules of the other river forts. The corsairs are using that intel to ambush Auran supply ships, weakening the entire eastern border. If the PCs discover the coded ledgers in the Sea Castle (F) or the secret strongroom under the Sailors’ Inn (I), they now have proof of high treason. 
+
+Eutikis has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitcores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold. Eutikis even visited the Lair of the Manticore once, receiving direct instruction from them in the faith of Nasga.
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
