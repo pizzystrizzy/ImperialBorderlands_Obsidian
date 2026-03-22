@@ -26,7 +26,7 @@
 
 - **K. Pellus Cassian’s Domus:** A humble Roman-style house belonging to **Subaltern Pellus Cassian**, a veteran of the Auran legions who kept his ears open and his sword sharp.
 
-- **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands. An adept, Julian Valens, was placed in the Scholarium by **Palatine Attenus Korbus**, who suspects the Legate of financial impropriety and other crimes and 
+- **L. The Scholarium:** This library and workshop houses a local Master from the **Tower of Knowledge**, a wizard named **Aurelius the Stern**. He was sent here to monitor unusual maritime phenomena, though he spends most of his time grumbling about the lack of decent parchment in the borderlands. An adept, Julian Valens, was placed in the Scholarium by **Palatine Attenus Korbus**, who suspects the Legate of financial impropriety and other crimes and wants him watched. Aurelius knows this but allows it, waiting to see how the situation might play out in his favor.
     
 - **M. Collegium Mercatorum (Merchant Guildhouse):** This massive structure is the center of trade. **Guildmaster Thales Motoratos** runs the guild with an iron fist and a ledger full of bribes. He operates a private banking wing for the town’s elite, and he’s the only man in town who knows exactly how much the Legate is skimming off the top.
     
