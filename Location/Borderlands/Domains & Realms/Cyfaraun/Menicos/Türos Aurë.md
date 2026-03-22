@@ -69,9 +69,11 @@
 
 - "In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have a ny suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I 've visited they haven't been there."
 
-### Intrigue with the Corsairs
+### Other Secrets
 
-The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. The Legate also is using the Corsairs to raid other Auran ships off the coast of Arganos, using Turos Aure as a safe haven when necessary. In this way, the Legate hopes to both enrich himself and eliminate or damage rivals.
+The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. 
+
+The Legate also is using the Corsairs to raid other Auran ships off the coast of Arganos, using Turos Aure as a safe haven when necessary. In this way, the Legate hopes to both enrich himself and eliminate or damage rivals.
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
