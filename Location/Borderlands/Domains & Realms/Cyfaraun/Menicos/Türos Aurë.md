@@ -75,7 +75,7 @@ The **Argollëan Family** uses this port to smuggle Elven antiquities, and has a
 
 The Legate isn't just turning a blind eye to some smuggling; he's actively commissioning corsairs to raid Auran merchant convoys that refuse to pay his “port tax” or that belong to rival houses. The corsairs fly false flags, hit the ships at sea (often ships going to or coming from Arganos), then sail into Türos Aurë at night to offload the loot. The blood-splattered ship the Legate wants the PCs to investigate was one of the Legate’s own arranged raids that went wrong. The manticores attacked the corsair vessel instead, slaughtered the crew, leaving the ship to drift back empty.
 
-
+Further, Legate Natherian has started selling them Auran military intelligence: ship and troop movements, ballistae production numbers from the Belicarius manufactory (O), even the patrol schedules of the other river forts. The corsairs are using that intel to ambush Auran supply ships, weakening the entire eastern border. If the PCs discover the coded ledgers in the Sea Castle (F) or the secret strongroom under the Sailors’ Inn (I), they now have proof of high treason. 
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
