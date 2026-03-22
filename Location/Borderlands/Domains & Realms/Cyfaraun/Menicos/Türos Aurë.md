@@ -98,7 +98,30 @@ Further, Legate Natherian has started selling Auran military intelligence: ship 
 
 The Sands & Bones Guild, led locally by **Euplia Nuvicerres**, has a larger task in addition to running their bawdyhouse. The leader of the Guild, **Selene Nictorian**, has given her two important tasks. First, see that captives brought by corsairs make their way to Cyfaraun where they can be sold (whether to fight in the arena or to perform other services). Second, Selene has been operating a riverboat gambling barge that caters to both human and beastman alike. When the barge arrives at Türos Aurë, Euplia makes sure it is resupplied. Euplia also does her best to promote the barge to her clientele. 
 
-In the basement of the Temple of Mityara, the hospital involuntarily houses a few patients who are mad. One of these patients, **Erebos Hadesios**, is the child of **Astydamia Kavalatar**, who brought him here as an infant when she was made a vampire. His eye sockets are empty (the temple workers claim he gouged his own eyes). Astydamia visited Erebos from time to time, entering his cell in gaseous form, telling him bedtime stories of the coming Awakening and of the great deeds the **Istrauri** cult will accomplish. He attempted to share all of this with Priestess Lucilla, who interpreted this as obvious frank psychosis. Erebos welcomes visitors and promises to tell the PCs whatever they want to know if they will free him from captivity. He knows that a new recruit can join the cult by donning a black robe and waiting by the standing stone by the coast of the Tëhonaurë, on the night of the new moon.
+In the basement of the Temple of Mityara, the hospital involuntarily houses a few patients who are mad. One of these patients, **Erebos Hadesios**, is the child of **Astydamia Kavalatar**, who brought him here as an infant when she was made a vampire. His eye sockets are empty (the temple workers claim he gouged his own eyes). Astydamia visited Erebos from time to time, entering his cell in gaseous form, telling him bedtime stories of the coming Awakening and of the great deeds the **Istrauri** cult will accomplish. He attempted to share all of this with Priestess Lucilla, who interpreted this as obvious frank psychosis. Erebos welcomes visitors and promises to tell the PCs whatever they want to know if they will free him from captivity. He knows that a new recruit can join the cult by donning a black robe and waiting by the standing stone by the coast of the Tëhonaurë, on the night of the new moon. 
+
+One of the temple workers is secretly a totenmaske, placed by the cult to watch over Erebos. If the party tries to rescue Erebos, the temple workers will try to stop them, and if necessary, the totenmaske will reveal itself and attack, murdering the other temple workers in the process.
+
+### Totenmaske
+
+**Type**: Undead **Size**: Man-sized (8 st) **Speed (land)**: 40’ / 120’ (twice as fast as Mummy; reflects agility and PF2 40 ft) **Armor Class**: 5 (better than Mummy's 6 due to Dex/agility theme; still hittable by +1 or better weapons) **Hit Dice**: 5+2** (average ~25–30 hp) **Attacks**: 2 claws / 1 bite (or 1 claw + bite if using one attack routine) **Damage**: 1d6 claw / 1d6 claw / 1d8 bite **Special Attacks**: Drink Flesh, Shape Flesh curse **Save**: F6 (slightly better than Mummy's F5 due to HD bump) **Morale**: +3 (high but not unbreakable; flees if clearly outmatched after losing half HP) **Vision**: Darkvision 60’ (lightless vision equivalent) **Other Senses**: Standard **Proficiencies**: None **Normal Load**: 5 st. **Alignment**: Chaotic **Treasure Type**: D (personal hoarded valuables from victims) **XP**: 800–1,000 (base 660 like Mummy, + extra for multiple save-or-suck abilities; adjust to 800 if using strict ACKS XP tables)
+
+**Undead Immunities**: Immune to sleep, charm, hold, poison, disease, death effects. Turned by clerics as a 5+ HD undead (same as Mummy).
+
+**Special Abilities**:
+
+- **Drink Flesh** — If the totenmaske hits the same living target with **both** claw attacks in one round (and remains adjacent), it may immediately drain flesh as a free action on its next turn. The victim must save vs. poison or suffer **energy drain** (lose 1 level of experience; –1 to attack/damage/saves per level lost until restored) **and** become **sickened** (–2 to attack rolls, damage rolls, and saves for 1d6 turns; cumulative). On a successful save, only the sickened effect applies (no level drain). This mirrors Mummy rot's punishing nature but trades slow curse progression for immediate combat impact.
+    
+- **Living Form** (disguise) — The totenmaske can assume the appearance of any Medium or smaller humanoid (its pre-death form or a recent victim) at will outside combat, or once per encounter in combat (takes 1 round to shift). This is visual only (no change to stats, movement, or attack damage), but claw/bite damage can be flavored as bludgeoning (fists/teeth) while disguised. Victims get a save vs. spells at –2 to disbelieve if suspicious (e.g., after interaction). Drops if the totenmaske is reduced below half HP or chooses to reveal itself.
+    
+- **Shape Flesh** (curse) — If the totenmaske spends 1 full turn (10 minutes) in uninterrupted physical contact with a **paralyzed**, **unconscious**, **bound/restrained**, or **willing** victim, it can grotesquely reshape the target's face, sealing over one feature with living flesh. The victim saves vs. spells (or poison at –2). Failure causes permanent loss of one sense:
+    
+    - **Ears** → deafened (–4 to surprise rolls; can't hear speech or commands).
+    - **Eyes** → blinded (–4 to attack rolls; can't see).
+    - **Mouth** → can't speak, eat, or drink (starves in days/weeks if not fed magically).
+    - **Nose** → can't smell (mostly flavor, but mouth + nose sealed = suffocation in 1d6+1 rounds as air is cut off).
+    
+    A victim with **both mouth and nose sealed** suffocates (treat as drowning: 1d6 damage per round after breath-holding fails). The curse is permanent until removed by **remove curse** (caster level 7+), **heal**, or similar high magic. A skilled surgeon can cut the flesh open (Medicine or healing proficiency check at –4 penalty; takes 1d6 rounds and inflicts 1d6 slashing damage per round of surgery).
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
