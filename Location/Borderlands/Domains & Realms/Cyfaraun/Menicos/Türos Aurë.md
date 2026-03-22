@@ -77,7 +77,7 @@ The Legate isn't just turning a blind eye to some smuggling; he's actively commi
 
 Further, Legate Natherian has started selling them Auran military intelligence: ship and troop movements, ballistae production numbers from the Belicarius manufactory (O), even the patrol schedules of the other river forts. The corsairs are using that intel to ambush Auran supply ships, weakening the entire eastern border. If the PCs discover the coded ledgers in the Sea Castle (F) or the secret strongroom under the Sailors’ Inn (I), they now have proof of high treason. 
 
-Eutikis has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitc
+Eutikis has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitcores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold
 
 #### Factions
 
