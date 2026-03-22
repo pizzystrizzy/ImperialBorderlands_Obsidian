@@ -115,8 +115,8 @@ One of the temple workers is secretly a totenmaske, placed by the cult to watch 
 - **Living Form** (disguise) — The totenmaske can assume the appearance of any Medium or smaller humanoid (its pre-death form or a recent victim) at will outside combat, or once per encounter in combat (takes 1 round to shift). This is visual only (no change to stats, movement, or attack damage), but claw/bite damage can be flavored as bludgeoning (fists/teeth) while disguised. Victims get a save vs. spells at –2 to disbelieve if suspicious (e.g., after interaction). Drops if the totenmaske is reduced below half HP or chooses to reveal itself.
     
 - **Shape Flesh** (curse) — If the totenmaske spends 1 full turn (10 minutes) in uninterrupted physical contact with a **paralyzed**, **unconscious**, **bound/restrained**, or **willing** victim, it can grotesquely reshape the target's face, sealing over one feature with living flesh. The victim saves vs. spells. Failure causes permanent loss of one sense:
-    - **Ears** → deafened (–4 to surprise rolls; can't hear speech or commands).
-    - **Eyes** → blinded (–4 to attack rolls; can't see).
+    - **Ears** → deafened (See ACKS2 RR, p. 508).
+    - **Eyes** → blinded (See ACKS2 RR, p. 508).
     - **Mouth** → can't speak, eat, or drink (starves in days/weeks if not fed magically).
     - **Nose** → can't smell (mostly flavor, but mouth + nose sealed = suffocation in 1d6+1 rounds as air is cut off).
     
