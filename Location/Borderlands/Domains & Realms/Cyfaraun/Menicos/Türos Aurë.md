@@ -77,6 +77,13 @@ The Legate isn't just turning a blind eye to some smuggling; he's actively commi
 
 Further, Legate Natherian has started selling them Auran military intelligence: ship and troop movements, ballistae production numbers from the Belicarius manufactory (O), even the patrol schedules of the other river forts. The corsairs are using that intel to ambush Auran supply ships, weakening the entire eastern border. If the PCs discover the coded ledgers in the Sea Castle (F) or the secret strongroom under the Sailors’ Inn (I), they now have proof of high treason. 
 
+#### Factions
+
+- **The Merchant Guild** (Guildmaster Thales Motoratos, Xylara Drakon, and associates
+		- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. Likely PC allies if the party wants silver, information, or patriotic justice. Xylara is the moral center; Thales is the ruthless pragmatist.
+- **The Ordo Istraurën (Hidden Sea Cult)** (Astydamia Kavalatar + Eutikis Tarus + the dominated foundry workers) Goal: Turn the Legate into a vampire (see #3), then transform Türos Aurë into an undead pirate haven for the Awakening. They offer power, eternal life, and forbidden pleasures. PCs of flexible morality (or those chasing the “secret love goddess” rumor) get pulled in here. Eutikis is the seductive entry point; Astydamia is the monster in the basement.
+- **The Corrupt Establishment** (Legate Retunus + corsairs + Sand & Bones Guild) Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. Salius and Spyros are the personal weak points here.
+
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
 #Realm: [[Auran Empire]]
