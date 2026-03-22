@@ -96,7 +96,7 @@ Further, Legate Natherian has started selling Auran military intelligence: ship 
 
 **Eutikis Taurus** has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitcores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold. Eutikis even visited the Lair of the Manticore once, receiving direct instruction from them in the faith of Nasga.
 
-The Sands & Bones Guild, led locally by **Euplia Nuvicerres**, 
+The Sands & Bones Guild, led locally by **Euplia Nuvicerres**, has a larger task in addition to running their bawdyhouse. The leader of the Guild, Selene
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
