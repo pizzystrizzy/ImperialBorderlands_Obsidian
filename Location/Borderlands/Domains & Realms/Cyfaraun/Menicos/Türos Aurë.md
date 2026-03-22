@@ -73,7 +73,9 @@
 
 The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. 
 
-The Legate also is using the Corsairs to raid other Auran ships off the coast of Arganos, using Turos Aure as a safe haven when necessary. In this way, the Legate hopes to both enrich himself and eliminate or damage rivals.
+The Legate isn't just turning a blind eye to some smuggling; he's actively commissioning corsairs to raid Auran merchant convoys that refuse to pay his “port tax” or that belong to rival houses. The corsairs fly false flags, hit the ships at sea, then sail into Türos Aurë at night to offload the loot. The blood-splattered ghost ship the PCs are hired to investigate? It was one of the Legate’s own arranged raids that went wrong — the manticores attacked the corsair vessel instead, slaughtered the crew, and the ship drifted back empty.
+
+is using the Corsairs to raid other Auran ships off the coast of Arganos, using Turos Aure as a safe haven when necessary. In this way, the Legate hopes to both enrich himself and eliminate or damage rivals.
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
