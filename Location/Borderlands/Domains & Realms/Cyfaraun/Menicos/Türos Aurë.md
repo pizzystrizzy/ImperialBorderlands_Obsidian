@@ -1,6 +1,6 @@
 **Türos Aurë ("Sea-Castle")** is the easternmost fort in the line constructed by Tarkaun Audarius XI Ulkyreus. It guards the mouth of the [[Krysivor River]] and the coastline. **Legate Retunus Natherian** (F8, 35 hp) is a greedy and grasping man, and he exploits his control of the small port here to the fullest extent. He has even been known to permit corsairs from the Free Cities of Ulrukan to anchor here if their gold is shiny enough. In the past season, his profits have been low. Several expected ships simply never made it to port. The most recent merchant ship arrived empty of any crew - though the deck was splattered with blood and the topsails were torn and pierced as if by great weapons (the manticores from the [[Lair of the Manticore]] are to blame). Adventurers of a flexible disposition who visit Türos Aurë may be recruited to investigate.
 
-
+### Map & Locations
 ![[Turos_Aure_Map.png]]
 
 
@@ -35,7 +35,7 @@
 - **O. Norus Ballistaria et Zeraromus:** The **Belicarius family** runs the siege weapons manufactory here, which produces the heavy ballistae that line the Sea Castle’s walls, as well as those of the other forts in the Borderlands, along with catapults and longer-range trebuchets. Despite working around the clock, their output is stagnant. Rumor has it the Sand & Bones Guild has been sabotaging the machinery to keep the Legate’s attention focused on internal repairs rather than their smuggling routes. While **Apollodorus Motoratos** manages the main operation, **Spyros Belicarius** can  often be found in his personal workshop, where he designs custom automata along with his dwarven apprentice, **Vitruvius Makor** (Dwarven Machinist 6, 24 hp), whose grandfather fled [[Azen Kairn]] before it fell. Vitruvius was raised in [[Cyfaraun]] and hopes to build a war machine capable of taking down the dragon [[Orm]].
     
 
-## Rumors
+### Rumors
 
 - "The most recent merchant ship arrived empty of any crew -- though the deck was splattered with blood and the topsails."
 
@@ -69,7 +69,7 @@
 
 - "In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have a ny suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I 've visited they haven't been there."
 
-
+### Intrigue with the Pir
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
