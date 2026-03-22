@@ -71,9 +71,9 @@
 
 - "Some people are locked away in a dungeon under the Temple of Mityara. They must have done terrible things"
 
-- "The legate was killed long ago and replaced by a doppleganger from abroad, that's why he's so cozy with the pirates."
+- "The legate was killed long ago and replaced by a doppelgänger from abroad, that's why he's so cozy with the pirates."
 
-- "Sometimes, before folks disappear, they start actting strange and talking about service and eternal life and the resurrection of the dead or some such nonsense. Then again, sometimes people talk like that and they don't disappear; they just work hard and keep to themselves."
+- "Sometimes, before folks disappear, they start acting strange and talking about service and eternal life and the resurrection of the dead or some such nonsense. Then again, sometimes people talk like that and they don't disappear; they just work hard and keep to themselves."
 
 - "Something like 20 years ago, Astydamia Kavalatar had an illegitimate child I heard was half monster. The boy I guess died in childbirth, cause no one's ever seen it, and Astydamia's whole personality changed as a result. Now she rarely leaves the factory, and when she does she doesn't talk to anyone."
 
