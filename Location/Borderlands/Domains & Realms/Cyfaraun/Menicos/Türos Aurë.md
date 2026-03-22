@@ -57,6 +57,8 @@
 
 - "A few stevedores and factory workers recently turned up dead in a coal bin. I heard that all the blood had been drained from their bodies!"
 
+- The monsters are getting braver. Brother Varo at the lighthouse swears some kind of winged monstrosity perched on the causeway last week and stared at the town for an hour before flying off. The light didn’t scare it at all.
+
 - "Those crates the Argollëan Family smuggles through here aren’t just 'antiquities.' some glow green under moonlight. I heard one stevedore touched one and woke up speaking elvish in his sleep."
 
 - "The Sands & Bones Guild doesn’t just run that brothel. They’ve got a floating pleasure barge that docks here once a month. Wine, dice, and beastman gladiators fighting for the crowd’s amusement. The captain calls it *Eden*."
@@ -76,6 +78,8 @@
 - "Something like 20 years ago, Astydamia Kavalatar had an illegitimate child I heard was half monster. The boy I guess died in childbirth, cause no one's ever seen it, and Astydamia's whole personality changed as a result. Now she rarely leaves the factory, and when she does she doesn't talk to anyone."
 
 - "In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have a ny suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I 've visited they haven't been there."
+
+- "If you want to join that secret sea cult everyone pretends doesn’t exist, put on a black robe and wait by the old standing stone on the coast of the Tëhonaurë when there’s no moon. That’s what the drunk at the Sailors’ Inn told me, anyway."
 
 
 
@@ -102,7 +106,7 @@ The Legate isn't just turning a blind eye to some smuggling; he's actively commi
 
 Further, Legate Natherian has started selling Auran military intelligence: ship and troop movements, ballistae production numbers from the Belicarius manufactory (O), even the patrol schedules of the other river forts. The corsairs are using that intel to ambush Auran supply ships, weakening the entire eastern border. If the PCs discover the coded ledgers in the Sea Castle (F) or the secret strongroom under the Sailors’ Inn (I), they now have proof of high treason. If they get the evidence in the hands of **Julian Valens** in the Scholarium (Tower of Knowledge branch), it will mean certain execution for the Legate.
 
-**Eutikis Taurus** has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manitcores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold. Eutikis even visited the Lair of the Manticore once, receiving direct instruction from them in the faith of Nasga.
+**Eutikis Tarus** has been performing blood-rites in the secret shrine to Nasga using the drained bodies from the foundry. The fresh human blood (and the distilled fear of the dying) act as a beacon that has awaken and drawn the manticores from the Istrith Forest across the river. Eutikis is not in control of them, but they are drawn to the port. Their bloodlust has escalated as of late as they are getting more bold. Eutikis even visited the Lair of the Manticore once, receiving direct instruction from them in the faith of Nasga.
 
 The Sands & Bones Guild, led locally by **Euplia Nuvicerres**, has a larger task in addition to running their bawdyhouse. The leader of the Guild, **Selene Nictorian**, has given her two important tasks. First, see that captives brought by corsairs make their way to Cyfaraun where they can be sold (whether to fight in the arena or to perform other services). Second, Selene has been operating a riverboat gambling barge that caters to both human and beastman alike. When the barge arrives at Türos Aurë, Euplia makes sure it is resupplied. Euplia also does her best to promote the barge to her clientele. 
 
