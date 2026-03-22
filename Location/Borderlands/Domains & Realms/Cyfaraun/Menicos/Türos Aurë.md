@@ -82,7 +82,7 @@ Further, Legate Natherian has started selling them Auran military intelligence: 
 - **The Merchant Guild** (Guildmaster Thales Motoratos, Xylara Drakon, and associates)
 	- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. Likely PC allies if the party wants silver, information, or patriotic justice. 
 - **The Ordo Istraurën (Hidden Sea Cult)** (Astydamia Kavalatar & the dominated foundry workers) 
-	- Goals:  Recruit Eutikis, using her as a wedge in to influence and, as necessary, seduction of key figures. Turn the Legate into a vampire thrall, then transform Türos Aurë into an undead pirate haven for the Awakening. They offer power, eternal life, and forbidden pleasures. 
+	- Goals:  Recruit Eutikis, using her as a wedge in to influence and, as necessary, seduction of key figures. Turn the Legate into a vampire thrall, then transform Türos Aurë into an undead pirate haven for the Awakening. Then, use the newly undead-friendly port as a haven for a growing fleet of vampire-pirate ships. The Krysivor River provides access to the borderlands (along with the various trade routes that have been established). This will all unfold They offer power, eternal life, and forbidden pleasures. 
 - **The Legate's Command** (Legate Retunus, his vassals & troops he commands, corsairs) 
 	- Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. 
 - **Belicarius manufactory**
