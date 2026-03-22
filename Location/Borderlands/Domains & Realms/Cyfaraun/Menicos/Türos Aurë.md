@@ -71,7 +71,7 @@
 
 ### Intrigue with the Corsairs
 
-The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. The Legate also is using the Corsairs to raid other Auran ships off the coast of Arganos, usin
+The **Argollëan Family** uses this port to smuggle Elven antiquities, and has an arrangement with the Legate to avoid paying duties. The Legate also is using the Corsairs to raid other Auran ships off the coast of Arganos, using Turos Aure as a safe haven when necessary. In this way, the Legate hopes to both enrich himself and eliminate or damage rivals.
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
