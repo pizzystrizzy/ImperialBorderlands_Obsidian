@@ -79,11 +79,13 @@ Further, Legate Natherian has started selling them Auran military intelligence: 
 
 #### Factions
 
-- **The Merchant Guild** (Guildmaster Thales Motoratos, Xylara Drakon, and associates
+- **The Merchant Guild** (Guildmaster Thales Motoratos, Xylara Drakon, and associates)
 	- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. Likely PC allies if the party wants silver, information, or patriotic justice. 
 - **The Ordo Istraurën (Hidden Sea Cult)** (Astydamia Kavalatar & the dominated foundry workers) 
 	- Goal: Turn the Legate into a vampire (see #3), then transform Türos Aurë into an undead pirate haven for the Awakening. They offer power, eternal life, and forbidden pleasures. The cult is not working with Eutikis, but they know of her activities and quietly support her.
-- **The Legate's Command** (Legate Retunus + corsairs + Sand & Bones Guild) Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. Salius and Spyros are the personal weak points here.
+- **The Legate's Command** (Legate Retunus, his vassals & troops he commands, corsairs) 
+	- Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. 
+- *Belicarius manufactory
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
