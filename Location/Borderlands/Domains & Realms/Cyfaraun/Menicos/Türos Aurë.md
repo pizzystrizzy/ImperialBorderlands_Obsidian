@@ -80,13 +80,17 @@ Further, Legate Natherian has started selling them Auran military intelligence: 
 #### Factions
 
 - **The Merchant Guild** (Guildmaster Thales Motoratos, Xylara Drakon, and associates)
-	- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. Likely PC allies if the party wants silver, information, or patriotic justice. 
+	- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. 
+	- Benefit: Likely PC allies if the party wants silver, information, or patriotic justice. 
 - **The Ordo Istraurën (Hidden Sea Cult)** (Astydamia Kavalatar & the dominated foundry workers) 
-	- Goals:  Recruit Eutikis, using her as a wedge in to influence and, as necessary, seduction of key figures. Turn the Legate into a vampire thrall, then transform Türos Aurë into an undead pirate haven for the Awakening. Then, use the newly undead-friendly port as a haven for a growing fleet of vampire-pirate ships. The Krysivor River provides access to the borderlands (along with the various trade routes that have been established). This will all unfold They offer power, eternal life, and forbidden pleasures. 
+	- Goals:  Recruit Eutikis, using her as a wedge in to influence and, as necessary, seduction of key figures. Turn the Legate into a vampire thrall, then transform Türos Aurë into an undead pirate haven for the Awakening. Then, use the newly undead-friendly port as a haven for a growing fleet of vampire-pirate ships. The Krysivor River provides access to the borderlands (along with the various trade routes that have been established). This will all unfold over the next few months if undisturbed by the PCs. 
+	- Benefit: They offer power, eternal life, and forbidden pleasures. 
 - **The Legate's Command** (Legate Retunus, his vassals & troops he commands, corsairs) 
-	- Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. 
+	- Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. 
+	- Benefit: PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. 
 - **Belicarius manufactory**
-	- Goal: Make enough profit with siege warfare to fund further automata development. Build weapons necessary to take down Orm (Vitruvius specifically). PCs who plan on waging war may benefit from establishing a good relationship with the Belicarius family.
+	- Goal: Make enough profit with siege warfare to fund further automata development. Build weapons necessary to take down Orm (Vitruvius specifically).
+	- Benefit: PCs who plan on waging war may benefit from establishing a good relationship with the Belicarius family.
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
