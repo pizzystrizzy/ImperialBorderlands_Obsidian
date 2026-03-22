@@ -85,7 +85,8 @@ Further, Legate Natherian has started selling them Auran military intelligence: 
 	- Goal: Turn the Legate into a vampire (see #3), then transform Türos Aurë into an undead pirate haven for the Awakening. They offer power, eternal life, and forbidden pleasures. The cult is not working with Eutikis, but they know of her activities and quietly support her.
 - **The Legate's Command** (Legate Retunus, his vassals & troops he commands, corsairs) 
 	- Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. PCs can work for them short-term (the manticore hunt, bodyguard jobs, etc.) but will quickly realize they’re being used. 
-- *Belicarius manufactory
+- **Belicarius manufactory**
+	- Goal: Make enough profit with siege warfare to fund further automata development. Build weapons necessary to take down Orm (Vitruvius specifically). PCs who plan on waging war may benefit from establishing a good relationship with the Belicarius family.
 
 #Realm: [[Menicos]]
 #Realm: [[Cyfaraun]]
