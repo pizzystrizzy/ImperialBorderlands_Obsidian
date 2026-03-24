@@ -137,6 +137,7 @@ One of the temple workers is secretly a totenmaske, placed by the cult to watch 
     
     A victim with **both mouth and nose sealed** suffocates (treat as drowning: 1d6 damage per round after breath-holding fails). The curse is permanent until removed by **remove curse** (caster level 7+), **heal**, or similar high magic. A skilled surgeon can cut the flesh open (Medicine or healing proficiency check at –4 penalty; takes 1d6 rounds and inflicts 1d6 slashing damage per round of surgery).
 
-#Realm: [[Menicos]]
-#Realm: [[Cyfaraun]]
+#Realm: [[Menicos]] Legature
+#Realm: [[Cyfaraun]] Prefecture
+#Realm: Southern Argollë Exarchate
 #Realm: [[Auran Empire]]
