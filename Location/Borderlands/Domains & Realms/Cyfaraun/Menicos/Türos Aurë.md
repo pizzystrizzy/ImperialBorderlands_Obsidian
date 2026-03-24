@@ -125,7 +125,7 @@ One of the temple workers is secretly a totenmaske, placed by the cult to watch 
 
 **Special Abilities**:
 
-- **Drink Flesh** — If the totenmaske hits the same living target with **both** claw attacks in one round (and remains adjacent), it may drain flesh as a free action on its next turn. The victim must save vs. death or become **enervated** (ACKS2 RR p. 509).
+- **Drink Flesh** — If the totenmaske hits the same living target with **both** claw attacks in one round (and remains adjacent), it may drain flesh as an action in lieu of movement on its next turn. The victim must save vs. death or become **enervated** (ACKS2 RR p. 509).
     
 - **Living Form** (disguise) — The totenmaske can assume the appearance of any Medium or smaller humanoid (its pre-death form or a recent victim) at will outside combat, or once per encounter in combat (takes 1 round to shift). This is visual only (no change to stats, movement, or attack damage), but claw/bite damage can be flavored as bludgeoning (fists/teeth) while disguised. Victims get a save vs. spells at –2 to disbelieve if suspicious (e.g., after interaction). Drops if the totenmaske is reduced below half HP or chooses to reveal itself.
     
