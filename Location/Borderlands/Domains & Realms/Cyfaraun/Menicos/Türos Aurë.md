@@ -56,7 +56,7 @@ Additional families in the 6-mile hex: 180
 
 - (If the party is asking about cults) "It'd be hard for a cult to exist in Turos Aure without people knowing about it. The legate keeps a close eye on everything that goes on here in town, 'cause his livelihood depend on all of us working hard and producing."
 
-- (If the party is asking about cults) "My brother works in he weapons factory, and he's always talking about secret cults and such. I don't put much weight in what he says."
+- (If the party is asking about cults) "My brother works in the weapons factory, and he's always talking about secret cults and such. I don't put much weight in what he says."
 
 - "A few stevedores and factory workers recently turned up dead in a coal bin. I heard that all the blood had been drained from their bodies!"
 
@@ -70,7 +70,7 @@ Additional families in the 6-mile hex: 180
 
 - "One of the temple workers has the strangest face… it changes when you’re not looking straight at her. Like it’s not quite finished. Gives me the chills every time I visit the infirmary."
 
-- "I heard that visitor from out of town who last disappeared was from the Tower of Knowledge in Cyfaraun. Someone powerful must not have liked her poking a round and asking about forgotten gods and hidden cults."
+- "I heard that visitor from out of town who last disappeared was from the Tower of Knowledge in Cyfaraun. Someone powerful must not have liked her poking around and asking about forgotten gods and hidden cults."
 
 - "Some people are locked away in a dungeon under the Temple of Mityara. They must have done terrible things"
 
