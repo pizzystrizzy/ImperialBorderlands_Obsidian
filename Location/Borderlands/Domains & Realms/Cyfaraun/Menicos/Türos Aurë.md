@@ -46,7 +46,7 @@ Additional families in the 6-mile hex: 180
 
 - "I've heard there's a secret shrine, somewhere in the city, to a goddess of love. Not Ianna, mind you. An old goddess. I'm not even sure she has a name. Where it is I couldn't say, though."
 
-- "Sometimes folks just disappear around here, usually after asking questions like you're asking. A Nicean woman was here a few weeks back, asking the same sorts of things, and where is she now?"
+- "Sometimes folks just disappear around here, usually after asking questions like you're asking. A Krysean woman was here a few weeks back, asking the same sorts of things, and where is she now?"
 
 - "The legate is corrupt as hell. You can't walk within a mile of Turos Aure without his hand going into your pocket, whether you see it or not."
 
