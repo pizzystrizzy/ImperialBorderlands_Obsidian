@@ -80,7 +80,7 @@ Additional families in the 6-mile hex: 180
 
 - "Something like 20 years ago, Astydamia Kavalatar had an illegitimate child I heard was half monster. The boy I guess died in childbirth, cause no one's ever seen it, and Astydamia's whole personality changed as a result. Now she rarely leaves the factory, and when she does she doesn't talk to anyone."
 
-- "In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have a ny suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I 've visited they haven't been there."
+- "In the last month, there've been more disappearances than normal. All started when that Krysean woman vanished. Since then, we've lost nearly a dozen folk, and the legate doesn't seem to have any suspects. I've heard that a number of them now work at the foundry, and just never leave the place, but every time I've visited they haven't been there."
 
 - "If you want to join that secret sea cult everyone pretends doesn’t exist, put on a black robe and wait by the old standing stone on the coast of the Tëhonaurë when there’s no moon. That’s what the drunk at the Sailors’ Inn told me, anyway."
 
@@ -92,7 +92,7 @@ Additional families in the 6-mile hex: 180
 	- Goal: Expose the Legate’s skimming and end the corsair raids so honest trade can resume. They have the numbers, the money, and the shipping manifests. 
 	- Benefit: Likely PC allies if the party wants silver, information, or patriotic justice. 
 - **The Ordo Istraurën (Hidden Sea Cult)** (Astydamia Kavalatar & the dominated foundry workers) 
-	- Goals:  Recruit Eutikis, using her as a wedge in to influence and, as necessary, seduction of key figures. Turn the Legate into a vampire thrall, then transform Türos Aurë into an undead pirate haven for the Awakening. Then, use the newly undead-friendly port as a haven for a growing fleet of vampire-pirate ships. The Krysivor River provides access to the borderlands (along with the various trade routes that have been established). This will all unfold over the next few months if undisturbed by the PCs. 
+	- Goals:  Recruit Eutikis, using her as a wedge in to influence and, as necessary, seduce key figures. Turn the Legate into a vampire thrall, then transform Türos Aurë into an undead pirate haven for the Awakening. Then, develop a growing fleet of vampire-pirate ships. The Krysivor River provides access to the borderlands (along with the various trade routes that have been established). This will all unfold over the next few months if undisturbed by the PCs. 
 	- Benefit: They offer power, eternal life, and forbidden pleasures. 
 - **The Legate's Command** (Legate Retunus, his vassals & troops he commands, corsairs) 
 	- Goal: Keep the status quo of bribes, smuggling, and weapon production flowing. They have the soldiers, the pirates, and the official authority. 
