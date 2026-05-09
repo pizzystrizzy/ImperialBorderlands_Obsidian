@@ -1,0 +1,1 @@
+Ruined monastery, once populated by heretical dwarves that turned to follow Droskar, who taught the new faith of the Great Fungi. How 
