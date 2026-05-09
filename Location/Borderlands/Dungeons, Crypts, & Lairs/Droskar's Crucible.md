@@ -1,1 +1,1 @@
-Ruined monastery, once populated by heretical dwarves that turned to follow Droskar, who taught the new faith of the Great Fungi. How 
+Ruined monastery, once populated by heretical dwarves that turned to follow Droskar, who taught the new faith of the Great Fungi. Now currently ruled by kobolds.
