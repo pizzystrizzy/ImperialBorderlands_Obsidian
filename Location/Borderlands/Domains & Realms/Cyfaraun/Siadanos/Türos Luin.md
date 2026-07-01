@@ -1,5 +1,8 @@
 **Türos Luin ("Sister-Castle")** is another of the forts built 150 years ago by Tarkaun Audarius XI Ulkyreus. The [[Krysivor River|Krysivor]] is too wide and deep to be crossed here, so Türos Luin’s primary role is to serve as a redoubt and reserve for its sister forts, [[Türos Drav]] and [[Türos Tem]]. Türos Luin’s commander, Legate Victir Syrenictor, is an able leader and cunning tactician who would have done well fighting the Skysos. An unfortunate incident with a prefect’s wife in Aura ruined his promising career and got him exiled to this post. Syrenictor is a bitter and unhappy man who considers himself better than his fellow legates. He spends most of his time supervising lumberjacking of the remaining elven forests.
 
+![[Pasted image 20260701141404.png]]
+
+
 #Realm: [[Siadanos]]
 #Realm: [[Cyfaraun]]
 #Realm: [[Auran Empire]]
