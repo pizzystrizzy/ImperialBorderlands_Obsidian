@@ -31,7 +31,7 @@ Children: [[Preena Ramaja]] & [[Mahinda Ramaja]]  (bastard)
 
 The [[Fierce Brethren]] (Quintus the Rager, Vestus the Unlikely, and Zaira the Beautiful)
 
-The party also first meets [[Publius Crescens]] here
+The party also first meets [[image_files/People/Publius Crescens]] here
 
 **Rumors**
 1 Elves still live in the forests of Southern Argollë, but they’ve gone feral, and crave nothing more than the flesh of man. (False)
