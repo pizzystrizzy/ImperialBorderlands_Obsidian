@@ -1,0 +1,1 @@
+**Eumasari Genethan**: A secret society headquartered in Cyfaraun that serves a cover for a cult of murderers known as the Iskansar Men. The cult is devoted to Dirgion. Malthusia the Diabolist insinuated herself into the cult by seducing its leader, a corrupt templar named Sejanus, and it wasn’t long before she took charge of the cult completely.
