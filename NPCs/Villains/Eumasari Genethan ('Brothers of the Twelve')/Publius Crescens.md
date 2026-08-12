@@ -7,3 +7,7 @@ Publius Crescens is a patrician from Cyfaraun. He killed his wife in a fit of je
 Later, the party will oppose him when he becomes the Iskansar Man.
 
 ![[SkinsawMan 1.webp]]
+
+Haunts:
+
+Burning Haunt -- 
