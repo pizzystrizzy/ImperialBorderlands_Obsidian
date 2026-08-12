@@ -13,4 +13,6 @@ Haunts:
 Burning Haunt -- Gaius
 Festering Haunt
 Insane Haunt -- Balanor
-Obsessed Haun
+Obsessed Haunt -- Badb
+Vengeful Haunt  -- 
+Wrathful Haunt -- Korten
