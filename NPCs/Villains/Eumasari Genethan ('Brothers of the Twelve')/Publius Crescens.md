@@ -10,4 +10,7 @@ Later, the party will oppose him when he becomes the Iskansar Man.
 
 Haunts:
 
-Burning Haunt -- 
+Burning Haunt -- Gaius
+Festering Haunt
+Insane Haunt -- Balanor
+Obsessed Haun
