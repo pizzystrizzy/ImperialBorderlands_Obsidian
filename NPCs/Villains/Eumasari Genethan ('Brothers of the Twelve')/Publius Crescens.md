@@ -16,3 +16,7 @@ Insane Haunt -- Balanor
 Obsessed Haunt -- Badb
 Vengeful Haunt  -- Regulus
 Wrathful Haunt -- Korten
+
+Family
+
+Vorel -> Vorelius 
