@@ -20,3 +20,4 @@ Wrathful Haunt -- Korten
 Family
 
 Vorel -> Vorelius 
+Travers -> Traverius
