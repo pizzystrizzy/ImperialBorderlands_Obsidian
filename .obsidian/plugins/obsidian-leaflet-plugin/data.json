@@ -110,7 +110,7 @@
     {
       "id": "Borderlands_Color",
       "locked": true,
-      "lastAccessed": 1787025384066,
+      "lastAccessed": 1789435807981,
       "markers": [
         {
           "id": "ID_db8bdbf9cb08",
@@ -1288,9 +1288,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Location/Borderlands/Borderlands.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
